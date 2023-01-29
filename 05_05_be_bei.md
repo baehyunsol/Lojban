@@ -41,3 +41,17 @@ seltau가 아주 많더라도 각각의 seltau에 `be`를 붙여서 sumti들을 
 > ti cmalu be le ka canlu bei lo'e ckule be'o nixli be li mu bei lo merko be'o bo ckule la bryklyn loi pemci le mela nu,IORK prenu le jecta.
 
 인터넷에 로지반 사전 있으니 해석은 각자 알아서 해보도록 하자.
+
+---
+
+[[center]]
+[메인으로 돌아가기](index.html)
+[[/center]]
+
+[[left]]
+<< [5.4.je_ja](05_04_je_ja.html)
+[[/left]]
+
+[[right]]
+[5.6.co](05_06_co.html) >>
+[[/right]]

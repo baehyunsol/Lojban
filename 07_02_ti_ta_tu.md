@@ -10,3 +10,17 @@
 둘 다에게서 먼 무언가는 `저거`, `tu`라고 한다.
 
 사용법은 sumti cmavo들과 마찬가지로 sumti 자리에 넣으면 된다.
+
+---
+
+[[center]]
+[메인으로 돌아가기](index.html)
+[[/center]]
+
+[[left]]
+<< [7.1.ko](07_01_ko.html)
+[[/left]]
+
+[[right]]
+[7.3.bridi_cmavo](07_03_bridi_cmavo.html) >>
+[[/right]]

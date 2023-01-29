@@ -40,3 +40,17 @@ tanru에서 가장 뒤에 오는, 즉 핵심 의미를 가지는 brivla를 terta
 3단어 이상이 붙더라도 왼쪽부터 앞에서 뒤로 수식을 하면 된다.
 
 즉, `cmalu nixli ckule`는 (`cmalu nixli`) `ckule`로 읽으면 된다.
+
+---
+
+[[center]]
+[메인으로 돌아가기](index.html)
+[[/center]]
+
+[[left]]
+<< [5.0.brivla](05_00_brivla.html)
+[[/left]]
+
+[[right]]
+[5.2.bo](05_02_bo.html) >>
+[[/right]]
