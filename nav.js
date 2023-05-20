@@ -1,3 +1,5 @@
+"use strict";
+
 var settings = document.getElementById("settingsmenubg");
 
 function open_settings() {
@@ -12,7 +14,7 @@ document.getElementById("settingsopenbutton").addEventListener("click", open_set
 document.getElementById("settingsclosebutton").addEventListener("click", close_settings);
 
 var root_doc = document.querySelector(":root");
-var horizontal_padding = 24;
+var horizontal_padding = 96;
 
 function grow_horiz() {
     horizontal_padding -= 24;
@@ -37,8 +39,8 @@ function shrink_horiz() {
 document.getElementById("growhorizontalbutton").addEventListener("click", grow_horiz);
 document.getElementById("shrinkhorizontalbutton").addEventListener("click", shrink_horiz);
 
-var font_size_landscape = 18;
-var font_size_portrait = 14;
+var font_size_landscape = 21;
+var font_size_portrait = 16;
 
 function shrink_font() {
     font_size_landscape -= 1;

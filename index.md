@@ -1,18 +1,20 @@
-# 로지반
-
 [[right]]
 
 [[small]]
 
 지은이: 배현솔\
 최초 작성: 2020.12.01\
-최근 편집: 2023.01.29
+최근 편집: 2023.05.20
 
 [[/small]]
 
 [[/right]]
 
-[단어 목록](words.html) [예문 목록](sentences.html)
+오류/오타/건의사항은 [github issue](https://github.com/baehyunsol/Lojban/issues) 혹은 제 이메일 (baehyunsol@naver.com)을 이용해주세요.
+
+# 로지반
+
+[cmavo 목록](cmavo.html) [gismu 목록](gismu.html) [예문 목록](sentences.html) [Changelog](log.html) [로지반 사전 (외부 링크)](https://la-lojban.github.io/sutysisku/lojban/) [todo](todo.html)
 
 - 0. 들어가기 전에
   - [0.0.주의사항](00_00_주의사항.html)
@@ -70,3 +72,8 @@
 - 15. 부정문
   - [15.0.bridi_부정](15_00_bridi_부정.html)
   - [15.1.selbri_부정](15_01_selbri_부정.html)
+- 16. 작업 중
+- 17. 작업 중
+- 18. 숫자, 수량
+  - [18.0.숫자](18_00_숫자.html)
+  - [18.1.수량](18_01_수량.html)
