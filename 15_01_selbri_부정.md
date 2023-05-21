@@ -67,7 +67,7 @@
 [[/left]]
 
 [[right]]
-[18.0.숫자](18_00_숫자.html) >>
+[15.2.sumti_부정](15_02_sumti_부정.html) >>
 [[/right]]
 
 [cadzu]: gismu.html#cadzu

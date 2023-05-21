@@ -222,6 +222,7 @@
     - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]를 원한다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 목적으로
     - 영어 동의어: want, desire, hope
     - 한국어 동의어: 원하다
+    - 용례: [11.0](11_00_nu.html)
   - [[giant]]djuno[[/giant]][[anchor, id=djuno]][[/anchor]]
     - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 알다. [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]는 [[highlight=green]]x2[[/highlight]]의 주제.
     - 영어 동의어: know
@@ -368,6 +369,11 @@
     - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 경험하다
     - 영어 동의어: experience, live
     - 한국어 동의어: 경험하다
+  - [[giant]]limna[[/giant]][[anchor, id=limna]][[/anchor]]
+    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]가 [[highlight=green]]x2[[/highlight]](물)에서 수영한다
+    - 영어 동의어: swim
+    - 한국어 동의어: 수영
+    - 용례: [11.0](11_00_nu.html)
   - [[giant]]lumci[[/giant]][[anchor, id=lumci]][[/anchor]]
     - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 씻는다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](오염물)가 묻은, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](물/세제/비누)로
     - 영어 동의어: wash, clean
@@ -444,6 +450,7 @@
     - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 좋아한다
     - 영어 동의어: like, favor
     - 한국어 동의어: 좋아하다
+    - 용례: [11.0](11_00_nu.html)
   - [[giant]]nenri[[/giant]][[anchor, id=nenri]][[/anchor]]
     - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 내부에 있다
     - 영어 동의어: in, inside
@@ -589,6 +596,11 @@
     - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 금(gold)이다
     - 영어 동의어: gold
     - 한국어 동의어: 금
+  - [[giant]]sonci[[/giant]][[anchor, id=sonci]][[/anchor]]
+    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](군대)에 소속된 군인이다
+    - 영어 동의어: army, soldier, troop, military
+    - 한국어 동의어: 군인
+    - 용례: [11.0](11_00_nu.html)
   - [[giant]]spati[[/giant]][[anchor, id=spati]][[/anchor]]
     - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]] 종의 식물이다
     - 영어 동의어: plant, herb
