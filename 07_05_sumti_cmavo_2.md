@@ -4,9 +4,9 @@
 
 바로 이전에 나왔던 sumti를 반복하기 위해서는 `ri`계열 cmavo를 쓴다.
 
-> la .alis sipna ne'i le ri kumfa
+> la .alis [sipna] ne'i le ri [kumfa]
 
-`ne'i`는 `~안에`라는 뜻이고, `sipna`는 `자다`, `kumfa`는 `방`이라는 뜻이다.
+`ne'i`는 `~안에`라는 뜻이다.
 
 저 문장에서 `ri`가 뭘 가리키는 지 고민할 필요가 전혀 없다. `ri` 바로 이전에 나온 sumti가 `alis`니까 묻지도 따지지도 않고 `ri` 자리에 `alis`를 집어 넣으면 된다.
 
@@ -27,3 +27,6 @@
 [[right]]
 [7.6.bridi_cmavo_2](07_06_bridi_cmavo_2.html) >>
 [[/right]]
+
+[sipna]: gismu.html#sipna
+[kumfa]: gismu.html#kumfa
