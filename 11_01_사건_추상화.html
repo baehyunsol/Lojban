@@ -1,0 +1,55 @@
+<!DOCTYPE html><html>
+
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    
+    <title>11_01_사건_추상화</title>
+    
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
+    <!--<link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&amp;display=swap" rel="stylesheet"/> -->
+    
+    <link href="page.css" rel="stylesheet"/><link href="markdown.css" rel="stylesheet"/><link href="nav.css" rel="stylesheet"/><link href="header.css" rel="stylesheet"/>
+    
+</head>
+
+<body>
+
+
+    <header>
+<p><div class="topmenu deactivated"><a href="index.html">Home</a><a href="cmavo.html">cmavo 목록</a><a href="gismu.html">gismu 목록</a></div><div class="mobileview"><a id="navbutton">&#9776;</a></div></p>
+    </header>
+
+
+
+    <nav>
+<p><a id="settingsopenbutton">&#9728;</a><a href="#top">&#9650;</a><a href="#bottom">&#9660;</a></p><div id="settingsmenubg"><div id="settingsmenu"><table><thead><tr><th colspan="2"><div class="align-right"> <span class="size-giant"><a id="settingsclosebutton">&#10006;</a></span></div></th></tr></thead><tbody><tr><td><div class="align-right">Theme:</div></td><td><div class="align-left"><a id="changethemebutton">Set Light Theme</a></div></td></tr><tr><td><div class="align-right">Horizontal Padding:</div></td><td><div class="align-left"><a id="growhorizontalbutton">Grow</a> <a id="shrinkhorizontalbutton">Shrink</a></div></td></tr><tr><td><div class="align-right">Font Size:</div></td><td><div class="align-left"><a id="growfontbutton">Grow</a> <a id="shrinkfontbutton">Shrink</a></div></td></tr><tr><td><div class="align-right">Settings:</div></td><td><div class="align-left"><a id="savesettingsbutton">Save All</a> <a id="discardsettingsbutton">Discard All</a></div></td></tr></tbody></table></div></div>
+    </nav>
+
+
+    <article class="markdown">
+        <a id="top"></a>
+<h1 id="사건-추상화">사건 추상화</h1><p><a href="11_00_nu.html">이전 단원</a>에서 봤던 <code class="inline-code-span">nu</code>는 의미가 풍부하지 못하다. <code class="inline-code-span">~하는 것</code>이라는게 순간적인 사건인지, 계속 진행되는 상태인지, 아니면 어떤 과정의 일부인지 알려주지 않는다. 그런 의미를 알려주기 위해선 <code class="inline-code-span">nu</code> 계열의 다른 cmavo를 써야한다. 아래의 목록을 보자.</p><ul><li><code class="inline-code-span">mu&apos;e</code>: 한 순간 일어난 사건</li><li><code class="inline-code-span">pu&apos;u</code>: 긴 시간에 걸쳐 일어나는 과정</li><li><code class="inline-code-span">zu&apos;o</code>: 반복되는 사건/행위</li><li><code class="inline-code-span">za&apos;i</code>: 지속되는 상태</li></ul><p>이렇게만 봐서는 각각이 무슨 뜻인지 알기 힘들다. 각각을 예시와 함께 자세히 들여다 보자.</p><h2 id="mue">mu&apos;e</h2><blockquote>le mu&apos;e mi <a href="gismu.html#catra">catra</a> do cu <a href="gismu.html#zekri">zekri</a> <blockquote>내가 너를 죽인 것은 범죄야. </blockquote></blockquote><p><code class="inline-code-span">mu&apos;e mi catra do</code>가 <code class="inline-code-span">내가 너를 죽인 사건</code>라는 뜻으로 통째로 selbri 역할을 하고 있다. 죽이는 사건 자체는 한 순간에 일어나지, 지속되는 것이 아니므로, <code class="inline-code-span">mu&apos;e</code>를 사용했다.</p><h2 id="puu">pu&apos;u</h2><p><em>추가 예정</em></p><h2 id="zuo">zu&apos;o</h2><blockquote>mi <a href="gismu.html#tatpi">tatpi</a> ri&apos;a le zu&apos;o mi <a href="gismu.html#plipe">plipe</a> <blockquote>자꾸 폴짝폴짝 뛰니까 피곤하다. </blockquote></blockquote><p><code class="inline-code-span">mi plipe</code>가 반복적으로 일어난게 <code class="inline-code-span">mi tatpi</code>의 원인이라고 말하고 있다.</p><h2 id="zai">za&apos;i</h2><blockquote>le za&apos;i mi <a href="gismu.html#jmive">jmive</a> cu <a href="gismu.html#ckape">ckape</a> do <blockquote>내가 살아있다는 건 너에게 위험해. </blockquote></blockquote><p><code class="inline-code-span">za&apos;i mi jmive</code>는 <code class="inline-code-span">내가 살아있는 상태</code>를 뜻한다.</p><h1 id="각-cmavo의-sumti">각 cmavo의 sumti</h1><p><code class="inline-code-span">nu</code>가 만드는 selbri의 sumti를 정의했듯,<code class="inline-code-span">mu&apos;e</code>, <code class="inline-code-span">pu&apos;u</code>, <code class="inline-code-span">zu&apos;o</code>, <code class="inline-code-span">za&apos;i</code>의 sumti도 정의해야 한다.</p><ul><li><code class="inline-code-span">mu&apos;e</code>: <span class="highlight-red">x1</span>은 ~한 사건이다.</li><li><code class="inline-code-span">pu&apos;u</code>: <span class="highlight-red">x1</span>은 <span class="highlight-green">x2</span>(배경)에서 벌어지는 ~하는 과정이다.</li><li><code class="inline-code-span">zu&apos;o</code>: <span class="highlight-red">x1</span>은 <span class="highlight-green">x2</span>(행위)가 반복해서 벌어지는 활동이다.</li><li><code class="inline-code-span">za&apos;i</code>: <span class="highlight-red">x1</span>은 ~한 상태이다.</li></ul><hr/><div class="align-center"><p><a href="index.html">메인으로 돌아가기</a></p></div><div class="align-left"><p>&lt;&lt; <a href="11_00_nu.html">11.0.nu</a></p></div><div class="align-right"><p><a href="11_02_성질_추상화.html">11.2.성질 추상화</a> &gt;&gt;</p></div>
+        <a id="bottom"></a>
+    </article>
+
+
+
+
+    <footer class="markdown">
+<p><br/></p><p><br/></p><hr/><div class="align-center"><p>2021 ~ 2023 &copy; Baehyunsol</p></div>
+    </footer>
+
+
+    <script src="colors.js"></script>
+
+    
+    <script src="nav.js"></script>
+    
+    
+    
+    <script src="header.js"></script>
+    
+</body>
+
+</html>

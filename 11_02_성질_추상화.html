@@ -1,0 +1,55 @@
+<!DOCTYPE html><html>
+
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    
+    <title>11_02_성질_추상화</title>
+    
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'"/>
+    <!--<link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&amp;display=swap" rel="stylesheet"/> -->
+    
+    <link href="page.css" rel="stylesheet"/><link href="markdown.css" rel="stylesheet"/><link href="nav.css" rel="stylesheet"/><link href="header.css" rel="stylesheet"/>
+    
+</head>
+
+<body>
+
+
+    <header>
+<p><div class="topmenu deactivated"><a href="index.html">Home</a><a href="cmavo.html">cmavo 목록</a><a href="gismu.html">gismu 목록</a></div><div class="mobileview"><a id="navbutton">&#9776;</a></div></p>
+    </header>
+
+
+
+    <nav>
+<p><a id="settingsopenbutton">&#9728;</a><a href="#top">&#9650;</a><a href="#bottom">&#9660;</a></p><div id="settingsmenubg"><div id="settingsmenu"><table><thead><tr><th colspan="2"><div class="align-right"> <span class="size-giant"><a id="settingsclosebutton">&#10006;</a></span></div></th></tr></thead><tbody><tr><td><div class="align-right">Theme:</div></td><td><div class="align-left"><a id="changethemebutton">Set Light Theme</a></div></td></tr><tr><td><div class="align-right">Horizontal Padding:</div></td><td><div class="align-left"><a id="growhorizontalbutton">Grow</a> <a id="shrinkhorizontalbutton">Shrink</a></div></td></tr><tr><td><div class="align-right">Font Size:</div></td><td><div class="align-left"><a id="growfontbutton">Grow</a> <a id="shrinkfontbutton">Shrink</a></div></td></tr><tr><td><div class="align-right">Settings:</div></td><td><div class="align-left"><a id="savesettingsbutton">Save All</a> <a id="discardsettingsbutton">Discard All</a></div></td></tr></tbody></table></div></div>
+    </nav>
+
+
+    <article class="markdown">
+        <a id="top"></a>
+<h1 id="성질-추상화">성질 추상화</h1><h2 id="ka">ka</h2><p>지금까지 11단원에서 본 cmavo들은 bridi를 하나로 묶어서 selbri로 사용할 수 있게 했다. 하지만 그 bridi는 <u>성질</u>보다는 <u>사건</u> 위주였다. 예시들도 전부 &quot;수영을 하는 것&quot;, &quot;살인을 하는 것&quot;등 사건에 초점이 맞춰져 있었다.</p><p>그렇다면 사건이 아니고 성질에 초점을 맞추려면 어떻게 해야할까? <code class="inline-code-span">나는 이 그림이 파란 색이어서 좋아</code>를 로지반으로 표현해보자.</p><blockquote>mi <a href="gismu.html#nelci">nelci</a> le nu le <a href="gismu.html#pixra">pixra</a> cu <a href="gismu.html#blanu">blanu</a> <blockquote>나는 &quot;이 그림이 파란색인 사건&quot;이 좋아 </blockquote></blockquote><p>거의 비슷하지만 아니다. 저렇게 말하면 &quot;그림이 파란색이 되는 그 사건&quot;을 좋아하는게 되므로 원래 의도했던 뜻과 조금 달라진다. 그림이 파란색인 것은 특정 사건이 아니고 그 그림이 항상 지니고 있는 성질이므로 <code class="inline-code-span">nu</code>를 쓸 수 없다.</p><blockquote>mi <a href="gismu.html#nelci">nelci</a> le ka le <a href="gismu.html#pixra">pixra</a> cu <a href="gismu.html#blanu">blanu</a> <blockquote>나는 &quot;이 그림이 파란색임&quot;이 좋아 </blockquote></blockquote><p>우리가 의도했던 뜻이 됐다. 이처럼 <code class="inline-code-span">~인 성질</code>을 나타내기 위해선 <code class="inline-code-span">ka</code> cmavo를 써야한다.</p><h2 id="ceu">ce&apos;u</h2><p>다음과 같은 문장도 <code class="inline-code-span">ka</code> 계열 cmavo를 이용해서 나타낼 수 있을까? <code class="inline-code-span">내가 너를 사랑하는 마음보다, 내가 sol을 사랑하는 마음이 더 커</code></p><p>위 문장에서 <u>사랑하는 행위</u>가 아닌 <u>사랑하는 성질</u>을 표현하고자 하므로 <code class="inline-code-span">nu</code>보다는 <code class="inline-code-span">ka</code>가 적절해보인다.</p><blockquote>la <em>sol.</em> cu <a href="gismu.html#zmadu">zmadu</a> do le ka mi <a href="gismu.html#prami">prami</a> </blockquote><p><code class="inline-code-span">ka mi prami</code>를 이용해서 <code class="inline-code-span">내가 ~를 사랑하는 성질</code>이라는 표현을 했다. 즉, <a href="gismu.html#prami">prami</a>의 x2로 <code class="inline-code-span">do</code>가 올 때보다 <code class="inline-code-span">la sol.</code>이 올 때가 더 <a href="gismu.html#zmadu">zmadu</a>하다는 뜻이다. 이렇게 쓰면 말은 되지만 조금 어색하다. <a href="gismu.html#prami">prami</a>의 x2에 대해 말하고 있다는 것을 좀 더 명확하게 나타내고 싶지 않은가? 이때 사용하는 것이 <code class="inline-code-span">ce&apos;u</code>이다.</p><blockquote>la <em>sol.</em> cu <a href="gismu.html#zmadu">zmadu</a> do le ka mi <a href="gismu.html#prami">prami</a> ce&apos;u </blockquote><p><a href="gismu.html#prami">prami</a>의 x2 자리에 <code class="inline-code-span">ce&apos;u</code>를 넣었다. 이렇게 하면 <code class="inline-code-span">ka</code>가 말하고자 하는 것이 <a href="gismu.html#prami">prami</a>의 x2 자리에 있다는 것을 더 명확하게 나타낼 수 있다.</p><h2 id="ka의-sumti">ka의 sumti</h2><p><code class="inline-code-span">ka</code>가 만드는 selbri의 sumti는 x1 하나밖에 없다. <code class="inline-code-span">nu</code>의 <a href="11_00_nu.html#nu의-sumti">설명</a>을 참고하자.</p><hr/><div class="align-center"><p><a href="index.html">메인으로 돌아가기</a></p></div><div class="align-left"><p>&lt;&lt; <a href="11_01_사건_추상화.html">11.1.사건_추상화</a></p></div><div class="align-right"><p><a href="11_03_정도_추상화.html">11.3.정도_추상화</a> &gt;&gt;</p></div>
+        <a id="bottom"></a>
+    </article>
+
+
+
+
+    <footer class="markdown">
+<p><br/></p><p><br/></p><hr/><div class="align-center"><p>2021 ~ 2023 &copy; Baehyunsol</p></div>
+    </footer>
+
+
+    <script src="colors.js"></script>
+
+    
+    <script src="nav.js"></script>
+    
+    
+    
+    <script src="header.js"></script>
+    
+</body>
+
+</html>
