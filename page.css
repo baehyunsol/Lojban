@@ -72,7 +72,6 @@ CSS variables (`var(--black)`) are affected by scripts. (Everywhere else.)
   html {
     font-size: var(--font-size-landscape);
   }
-
   article {
     margin-top: 3.999rem;
     margin-bottom: 0px;
@@ -85,7 +84,6 @@ CSS variables (`var(--black)`) are affected by scripts. (Everywhere else.)
   html {
     font-size: var(--font-size-portrait);
   }
-
   article {
     margin-top: 3.999rem;
     margin-bottom: 0px;

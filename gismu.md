@@ -167,6 +167,10 @@
     - 영어 동의어: school, academy
     - 한국어 동의어: 학교
     - 용례: [5.1](05_01_tanru.html), [5.2](05_02_bo.html), [5.3](05_03_ke.html), [5.4](05_04_je_ja.html), [7.7](07_07_zo'e.html)
+  - [[giant]]clani[[/giant]][[anchor, id=clani]][[/anchor]]
+    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]] 방향으로 길다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](측정기준)로
+    - 영어 동의어: long
+    - 한국어 동의어: 길다
   - [[giant]]cmalu[[/giant]][[anchor, id=cmalu]][[/anchor]]
     - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 작은 [[highlight=green]]x2[[/highlight]]이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 기준에서
     - 영어 동의어: small, tiny, little
@@ -258,6 +262,10 @@
     - 한국어 동의어: 주다
     - 용례: [9.3](09_03_fi'o.html)
 - f[[anchor, id=indexf]][[/anchor]]
+  - [[giant]]fagri[[/giant]][[anchor, id=fagri]][[/anchor]]
+    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 불(fire)이다, [[highlight=green]]x2[[/highlight]](연료)와 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](산화제)로 타는
+    - 영어 동의어: fire, flame
+    - 한국어 동의어: 불(fire)
   - [[giant]]fanva[[/giant]][[anchor, id=fanva]][[/anchor]]
     - 뜻 풀이: [[highlight=red]]x1[[/highlight]](번역가)이 [[highlight=green]]x2[[/highlight]](번역 전의 글)를 번역하다, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]] 언어에서 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]언어로, [[highlight=violet]]x5[[/highlight]](번역 후의 글)
     - 영어 동의어: translate
@@ -266,6 +274,10 @@
     - 뜻 풀이: [[highlight=red]]x1[[/highlight]](사건)이 발생하다
     - 영어 동의어: happen, occur, event
     - 한국어 동의어: 발생
+  - [[giant]]festi[[/giant]][[anchor, id=festi]][[/anchor]]
+    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](사건/사람)에 의한 쓰레기이다
+    - 영어 동의어: waste, garbage, trash
+    - 한국어 동의어: 쓰레기
   - [[giant]]fetsi[[/giant]][[anchor, id=fetsi]][[/anchor]]
     - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]라는 종의 암컷이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 특징으로 보았을 때
     - 영어 동의어: female, woman, she
@@ -333,6 +345,10 @@
     - 영어 동의어: sentence, statement
     - 한국어 동의어: 문장
     - 용례: [7.3](07_03_bridi_cmavo.html)
+  - [[giant]]jundi[[/giant]][[anchor, id=jundi]][[/anchor]]
+    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]에 집중하다/주의를 기울이다
+    - 영어 동의어: attention
+    - 한국어 동의어: 집중
 - k[[anchor, id=indexk]][[/anchor]]
   - [[giant]]kakne[[/giant]][[anchor, id=kakne]][[/anchor]]
     - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](행동/상태)를 할 수 있다/될 수 있다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 조건/상태에서
@@ -653,6 +669,10 @@
     - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]] 곁에 머물다
     - 영어 동의어: stay
     - 한국어 동의어: 곁에 머물다
+  - [[giant]]stidi[[/giant]][[anchor, id=stidi]][[/anchor]]
+    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](아이디어)를 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에게 제안하다
+    - 영어 동의어: suggest
+    - 한국어 동의어: 제안
   - [[giant]]stizu[[/giant]][[anchor, id=stizu]][[/anchor]]
     - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 의자다
     - 영어 동의어: chair, seat, bench, stool
