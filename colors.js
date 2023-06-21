@@ -45,30 +45,45 @@ function to_dark() {
     root_doc.style.setProperty("--white-trans", "#ffffff80");
     root_doc.style.setProperty("--white-compl-trans", "#00000080");
     
-    root_doc.style.setProperty("--red", "#c04040");
-    root_doc.style.setProperty("--red-compl", "#3fbfbf");
-    root_doc.style.setProperty("--red-trans", "#c0404080");
-    root_doc.style.setProperty("--red-compl-trans", "#3fbfbf80");
+    root_doc.style.setProperty("--red", "#c02020");
+    root_doc.style.setProperty("--red-compl", "#3fdfdf");
+    root_doc.style.setProperty("--red-trans", "#c0202080");
+    root_doc.style.setProperty("--red-compl-trans", "#3fdfdf80");
     
-    root_doc.style.setProperty("--green", "#40c040");
-    root_doc.style.setProperty("--green-compl", "#bf3fbf");
-    root_doc.style.setProperty("--green-trans", "#40c04080");
-    root_doc.style.setProperty("--green-compl-trans", "#bf3fbf80");
+    root_doc.style.setProperty("--green", "#20c020");
+    root_doc.style.setProperty("--green-compl", "#df3fdf");
+    root_doc.style.setProperty("--green-trans", "#20c02080");
+    root_doc.style.setProperty("--green-compl-trans", "#df3fdf80");
     
-    root_doc.style.setProperty("--blue", "#4040c0");
-    root_doc.style.setProperty("--blue-compl", "#bfbf3f");
-    root_doc.style.setProperty("--blue-trans", "#4040c080");
-    root_doc.style.setProperty("--blue-compl-trans", "#bfbf3f80");
+    root_doc.style.setProperty("--slateblue", "#4040c0");
+    root_doc.style.setProperty("--slateblue-compl", "#bfbf3f");
+    root_doc.style.setProperty("--slateblue-trans", "#4040c080");
+    root_doc.style.setProperty("--slateblue-compl-trans", "#bfbf3f80");
+    
+    root_doc.style.setProperty("--blue", "#2020c0");
+    root_doc.style.setProperty("--blue-compl", "#dfdf3f");
+    root_doc.style.setProperty("--blue-trans", "#2020c080");
+    root_doc.style.setProperty("--blue-compl-trans", "#dfdf3f80");
     
     root_doc.style.setProperty("--aqua", "#40c0ff");
     root_doc.style.setProperty("--aqua-compl", "#bf3f00");
     root_doc.style.setProperty("--aqua-trans", "#40c0ff80");
     root_doc.style.setProperty("--aqua-compl-trans", "#bf3f0080");
     
-    root_doc.style.setProperty("--emerald", "#40ffc0");
-    root_doc.style.setProperty("--emerald-compl", "#bf003f");
-    root_doc.style.setProperty("--emerald-trans", "#40ffc080");
-    root_doc.style.setProperty("--emerald-compl-trans", "#bf003f80");
+    root_doc.style.setProperty("--emerald", "#40c040");
+    root_doc.style.setProperty("--emerald-compl", "#bf3fbf");
+    root_doc.style.setProperty("--emerald-trans", "#40c04080");
+    root_doc.style.setProperty("--emerald-compl-trans", "#bf3fbf80");
+    
+    root_doc.style.setProperty("--turquoise", "#40ffc0");
+    root_doc.style.setProperty("--turquoise-compl", "#bf003f");
+    root_doc.style.setProperty("--turquoise-trans", "#40ffc080");
+    root_doc.style.setProperty("--turquoise-compl-trans", "#bf003f80");
+    
+    root_doc.style.setProperty("--seagreen", "#20c0c0");
+    root_doc.style.setProperty("--seagreen-compl", "#df3f3f");
+    root_doc.style.setProperty("--seagreen-trans", "#20c0c080");
+    root_doc.style.setProperty("--seagreen-compl-trans", "#df3f3f80");
     
     root_doc.style.setProperty("--violet", "#c040ff");
     root_doc.style.setProperty("--violet-compl", "#3fbf00");
@@ -89,6 +104,11 @@ function to_dark() {
     root_doc.style.setProperty("--gold-compl", "#003fbf");
     root_doc.style.setProperty("--gold-trans", "#ffc04080");
     root_doc.style.setProperty("--gold-compl-trans", "#003fbf80");
+    
+    root_doc.style.setProperty("--brown", "#c08020");
+    root_doc.style.setProperty("--brown-compl", "#3f7fdf");
+    root_doc.style.setProperty("--brown-trans", "#c0802080");
+    root_doc.style.setProperty("--brown-compl-trans", "#3f7fdf80");
     
 }
 
@@ -119,30 +139,45 @@ function to_light() {
     root_doc.style.setProperty("--white-trans", "#00000080");
     root_doc.style.setProperty("--white-compl-trans", "#ffffff80");
     
-    root_doc.style.setProperty("--red", "#3fbfbf");
-    root_doc.style.setProperty("--red-compl", "#c04040");
-    root_doc.style.setProperty("--red-trans", "#3fbfbf80");
-    root_doc.style.setProperty("--red-compl-trans", "#c0404080");
+    root_doc.style.setProperty("--red", "#3fdfdf");
+    root_doc.style.setProperty("--red-compl", "#c02020");
+    root_doc.style.setProperty("--red-trans", "#3fdfdf80");
+    root_doc.style.setProperty("--red-compl-trans", "#c0202080");
     
-    root_doc.style.setProperty("--green", "#bf3fbf");
-    root_doc.style.setProperty("--green-compl", "#40c040");
-    root_doc.style.setProperty("--green-trans", "#bf3fbf80");
-    root_doc.style.setProperty("--green-compl-trans", "#40c04080");
+    root_doc.style.setProperty("--green", "#df3fdf");
+    root_doc.style.setProperty("--green-compl", "#20c020");
+    root_doc.style.setProperty("--green-trans", "#df3fdf80");
+    root_doc.style.setProperty("--green-compl-trans", "#20c02080");
     
-    root_doc.style.setProperty("--blue", "#bfbf3f");
-    root_doc.style.setProperty("--blue-compl", "#4040c0");
-    root_doc.style.setProperty("--blue-trans", "#bfbf3f80");
-    root_doc.style.setProperty("--blue-compl-trans", "#4040c080");
+    root_doc.style.setProperty("--slateblue", "#bfbf3f");
+    root_doc.style.setProperty("--slateblue-compl", "#4040c0");
+    root_doc.style.setProperty("--slateblue-trans", "#bfbf3f80");
+    root_doc.style.setProperty("--slateblue-compl-trans", "#4040c080");
+    
+    root_doc.style.setProperty("--blue", "#dfdf3f");
+    root_doc.style.setProperty("--blue-compl", "#2020c0");
+    root_doc.style.setProperty("--blue-trans", "#dfdf3f80");
+    root_doc.style.setProperty("--blue-compl-trans", "#2020c080");
     
     root_doc.style.setProperty("--aqua", "#bf3f00");
     root_doc.style.setProperty("--aqua-compl", "#40c0ff");
     root_doc.style.setProperty("--aqua-trans", "#bf3f0080");
     root_doc.style.setProperty("--aqua-compl-trans", "#40c0ff80");
     
-    root_doc.style.setProperty("--emerald", "#bf003f");
-    root_doc.style.setProperty("--emerald-compl", "#40ffc0");
-    root_doc.style.setProperty("--emerald-trans", "#bf003f80");
-    root_doc.style.setProperty("--emerald-compl-trans", "#40ffc080");
+    root_doc.style.setProperty("--emerald", "#bf3fbf");
+    root_doc.style.setProperty("--emerald-compl", "#40c040");
+    root_doc.style.setProperty("--emerald-trans", "#bf3fbf80");
+    root_doc.style.setProperty("--emerald-compl-trans", "#40c04080");
+    
+    root_doc.style.setProperty("--turquoise", "#bf003f");
+    root_doc.style.setProperty("--turquoise-compl", "#40ffc0");
+    root_doc.style.setProperty("--turquoise-trans", "#bf003f80");
+    root_doc.style.setProperty("--turquoise-compl-trans", "#40ffc080");
+    
+    root_doc.style.setProperty("--seagreen", "#df3f3f");
+    root_doc.style.setProperty("--seagreen-compl", "#20c0c0");
+    root_doc.style.setProperty("--seagreen-trans", "#df3f3f80");
+    root_doc.style.setProperty("--seagreen-compl-trans", "#20c0c080");
     
     root_doc.style.setProperty("--violet", "#3fbf00");
     root_doc.style.setProperty("--violet-compl", "#c040ff");
@@ -163,6 +198,11 @@ function to_light() {
     root_doc.style.setProperty("--gold-compl", "#ffc040");
     root_doc.style.setProperty("--gold-trans", "#003fbf80");
     root_doc.style.setProperty("--gold-compl-trans", "#ffc04080");
+    
+    root_doc.style.setProperty("--brown", "#3f7fdf");
+    root_doc.style.setProperty("--brown-compl", "#c08020");
+    root_doc.style.setProperty("--brown-trans", "#3f7fdf80");
+    root_doc.style.setProperty("--brown-compl-trans", "#c0802080");
     
 }
 

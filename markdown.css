@@ -24,26 +24,38 @@ CSS variables (`var(--black)`) are affected by scripts. (Everywhere else.)
   --white-compl: #000000;
   --white-trans: #ffffff60;
   --white-compl-trans: #00000060;
-  --red: #c04040;
-  --red-compl: #3fbfbf;
-  --red-trans: #c0404060;
-  --red-compl-trans: #3fbfbf60;
-  --green: #40c040;
-  --green-compl: #bf3fbf;
-  --green-trans: #40c04060;
-  --green-compl-trans: #bf3fbf60;
-  --blue: #4040c0;
-  --blue-compl: #bfbf3f;
-  --blue-trans: #4040c060;
-  --blue-compl-trans: #bfbf3f60;
+  --red: #c02020;
+  --red-compl: #3fdfdf;
+  --red-trans: #c0202060;
+  --red-compl-trans: #3fdfdf60;
+  --green: #20c020;
+  --green-compl: #df3fdf;
+  --green-trans: #20c02060;
+  --green-compl-trans: #df3fdf60;
+  --slateblue: #4040c0;
+  --slateblue-compl: #bfbf3f;
+  --slateblue-trans: #4040c060;
+  --slateblue-compl-trans: #bfbf3f60;
+  --blue: #2020c0;
+  --blue-compl: #dfdf3f;
+  --blue-trans: #2020c060;
+  --blue-compl-trans: #dfdf3f60;
   --aqua: #40c0ff;
   --aqua-compl: #bf3f00;
   --aqua-trans: #40c0ff60;
   --aqua-compl-trans: #bf3f0060;
-  --emerald: #40ffc0;
-  --emerald-compl: #bf003f;
-  --emerald-trans: #40ffc060;
-  --emerald-compl-trans: #bf003f60;
+  --emerald: #40c040;
+  --emerald-compl: #bf3fbf;
+  --emerald-trans: #40c04060;
+  --emerald-compl-trans: #bf3fbf60;
+  --turquoise: #40ffc0;
+  --turquoise-compl: #bf003f;
+  --turquoise-trans: #40ffc060;
+  --turquoise-compl-trans: #bf003f60;
+  --seagreen: #20c0c0;
+  --seagreen-compl: #df3f3f;
+  --seagreen-trans: #20c0c060;
+  --seagreen-compl-trans: #df3f3f60;
   --violet: #c040ff;
   --violet-compl: #3fbf00;
   --violet-trans: #c040ff60;
@@ -60,6 +72,14 @@ CSS variables (`var(--black)`) are affected by scripts. (Everywhere else.)
   --gold-compl: #003fbf;
   --gold-trans: #ffc04060;
   --gold-compl-trans: #003fbf60;
+  --brown: #c08020;
+  --brown-compl: #3f7fdf;
+  --brown-trans: #c0802060;
+  --brown-compl-trans: #3f7fdf60;
+}
+
+:root {
+  --sidebar-width: min(450px, 60%);
 }
 
 body .markdown {
@@ -217,6 +237,21 @@ body .markdown img, body .markdown video, body .markdown iframe {
 .markdown .color-green svg path, .markdown .color-green svg rect, .markdown .color-green svg circle {
   fill: var(--green);
 }
+.markdown .color-slateblue {
+  color: var(--slateblue);
+}
+.markdown .color-slateblue::selection, .markdown .color-slateblue ::selection {
+  color: var(--slateblue-compl);
+}
+.markdown .highlight-slateblue {
+  background-color: var(--slateblue);
+}
+.markdown .highlight-slateblue::selection {
+  background-color: var(--slateblue-compl);
+}
+.markdown .color-slateblue svg path, .markdown .color-slateblue svg rect, .markdown .color-slateblue svg circle {
+  fill: var(--slateblue);
+}
 .markdown .color-blue {
   color: var(--blue);
 }
@@ -261,6 +296,36 @@ body .markdown img, body .markdown video, body .markdown iframe {
 }
 .markdown .color-emerald svg path, .markdown .color-emerald svg rect, .markdown .color-emerald svg circle {
   fill: var(--emerald);
+}
+.markdown .color-turquoise {
+  color: var(--turquoise);
+}
+.markdown .color-turquoise::selection, .markdown .color-turquoise ::selection {
+  color: var(--turquoise-compl);
+}
+.markdown .highlight-turquoise {
+  background-color: var(--turquoise);
+}
+.markdown .highlight-turquoise::selection {
+  background-color: var(--turquoise-compl);
+}
+.markdown .color-turquoise svg path, .markdown .color-turquoise svg rect, .markdown .color-turquoise svg circle {
+  fill: var(--turquoise);
+}
+.markdown .color-seagreen {
+  color: var(--seagreen);
+}
+.markdown .color-seagreen::selection, .markdown .color-seagreen ::selection {
+  color: var(--seagreen-compl);
+}
+.markdown .highlight-seagreen {
+  background-color: var(--seagreen);
+}
+.markdown .highlight-seagreen::selection {
+  background-color: var(--seagreen-compl);
+}
+.markdown .color-seagreen svg path, .markdown .color-seagreen svg rect, .markdown .color-seagreen svg circle {
+  fill: var(--seagreen);
 }
 .markdown .color-violet {
   color: var(--violet);
@@ -322,6 +387,21 @@ body .markdown img, body .markdown video, body .markdown iframe {
 .markdown .color-gold svg path, .markdown .color-gold svg rect, .markdown .color-gold svg circle {
   fill: var(--gold);
 }
+.markdown .color-brown {
+  color: var(--brown);
+}
+.markdown .color-brown::selection, .markdown .color-brown ::selection {
+  color: var(--brown-compl);
+}
+.markdown .highlight-brown {
+  background-color: var(--brown);
+}
+.markdown .highlight-brown::selection {
+  background-color: var(--brown-compl);
+}
+.markdown .color-brown svg path, .markdown .color-brown svg rect, .markdown .color-brown svg circle {
+  fill: var(--brown);
+}
 .markdown svg path, .markdown svg rect, .markdown svg circle {
   fill: var(--white);
 }
@@ -353,7 +433,10 @@ body .markdown img, body .markdown video, body .markdown iframe {
   max-height: 11.9rem;
 }
 .markdown .line-height-tiny {
-  line-height: 0.7;
+  line-height: 0.6;
+}
+.markdown .line-height-tiny pre.fenced-code-block {
+  line-height: 0.6;
 }
 .markdown .box.width-tiny {
   width: 7.143rem;
@@ -371,6 +454,9 @@ body .markdown img, body .markdown video, body .markdown iframe {
 .markdown .line-height-small {
   line-height: 0.85;
 }
+.markdown .line-height-small pre.fenced-code-block {
+  line-height: 0.85;
+}
 .markdown .box.width-small {
   width: 10rem;
 }
@@ -385,7 +471,10 @@ body .markdown img, body .markdown video, body .markdown iframe {
   max-height: 21.43rem;
 }
 .markdown .line-height-medium {
-  line-height: 1;
+  line-height: 1.1;
+}
+.markdown .line-height-medium pre.fenced-code-block {
+  line-height: 1.1;
 }
 .markdown .box.width-medium {
   width: 12.86rem;
@@ -401,7 +490,10 @@ body .markdown img, body .markdown video, body .markdown iframe {
   max-height: 28.57rem;
 }
 .markdown .line-height-big {
-  line-height: 1.15;
+  line-height: 1.35;
+}
+.markdown .line-height-big pre.fenced-code-block {
+  line-height: 1.35;
 }
 .markdown .box.width-big {
   width: 17.14rem;
@@ -417,7 +509,10 @@ body .markdown img, body .markdown video, body .markdown iframe {
   max-height: 34.29rem;
 }
 .markdown .line-height-giant {
-  line-height: 1.3;
+  line-height: 1.6;
+}
+.markdown .line-height-giant pre.fenced-code-block {
+  line-height: 1.6;
 }
 .markdown .box.width-giant {
   width: 20.57rem;
@@ -472,8 +567,8 @@ body .markdown img, body .markdown video, body .markdown iframe {
 }
 .markdown h3 {
   font-size: 2rem;
-  margin-top: 3.429rem;
-  margin-bottom: 1.7145rem;
+  margin-top: 3.143rem;
+  margin-bottom: 1.5715rem;
   transition: color 0.3s;
 }
 .markdown h3:hover {
@@ -481,9 +576,9 @@ body .markdown img, body .markdown video, body .markdown iframe {
   transition: color 0.3s;
 }
 .markdown h4 {
-  font-size: 1.714rem;
-  margin-top: 2.571rem;
-  margin-bottom: 1.2855rem;
+  font-size: 1.571rem;
+  margin-top: 2.429rem;
+  margin-bottom: 1.2145rem;
   transition: color 0.3s;
 }
 .markdown h4:hover {
@@ -491,12 +586,22 @@ body .markdown img, body .markdown video, body .markdown iframe {
   transition: color 0.3s;
 }
 .markdown h5 {
-  font-size: 1.286rem;
-  margin-top: 2.286rem;
-  margin-bottom: 1.143rem;
+  font-size: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
   transition: color 0.3s;
 }
 .markdown h5:hover {
+  color: var(--white-trans);
+  transition: color 0.3s;
+}
+.markdown h6 {
+  font-size: 0.762rem;
+  margin-top: 1.571rem;
+  margin-bottom: 0.7855rem;
+  transition: color 0.3s;
+}
+.markdown h6:hover {
   color: var(--white-trans);
   transition: color 0.3s;
 }
@@ -608,22 +713,28 @@ body .markdown img, body .markdown video, body .markdown iframe {
   color: #000000;
 }
 .markdown pre.fenced-code-block code .color-red {
-  color: #c04040;
+  color: #c02020;
 }
 .markdown pre.fenced-code-block code .color-red::selection {
-  color: #3fbfbf;
+  color: #3fdfdf;
 }
 .markdown pre.fenced-code-block code .color-green {
-  color: #40c040;
+  color: #20c020;
 }
 .markdown pre.fenced-code-block code .color-green::selection {
-  color: #bf3fbf;
+  color: #df3fdf;
 }
-.markdown pre.fenced-code-block code .color-blue {
+.markdown pre.fenced-code-block code .color-slateblue {
   color: #4040c0;
 }
-.markdown pre.fenced-code-block code .color-blue::selection {
+.markdown pre.fenced-code-block code .color-slateblue::selection {
   color: #bfbf3f;
+}
+.markdown pre.fenced-code-block code .color-blue {
+  color: #2020c0;
+}
+.markdown pre.fenced-code-block code .color-blue::selection {
+  color: #dfdf3f;
 }
 .markdown pre.fenced-code-block code .color-aqua {
   color: #40c0ff;
@@ -632,10 +743,22 @@ body .markdown img, body .markdown video, body .markdown iframe {
   color: #bf3f00;
 }
 .markdown pre.fenced-code-block code .color-emerald {
-  color: #40ffc0;
+  color: #40c040;
 }
 .markdown pre.fenced-code-block code .color-emerald::selection {
+  color: #bf3fbf;
+}
+.markdown pre.fenced-code-block code .color-turquoise {
+  color: #40ffc0;
+}
+.markdown pre.fenced-code-block code .color-turquoise::selection {
   color: #bf003f;
+}
+.markdown pre.fenced-code-block code .color-seagreen {
+  color: #20c0c0;
+}
+.markdown pre.fenced-code-block code .color-seagreen::selection {
+  color: #df3f3f;
 }
 .markdown pre.fenced-code-block code .color-violet {
   color: #c040ff;
@@ -661,9 +784,15 @@ body .markdown img, body .markdown video, body .markdown iframe {
 .markdown pre.fenced-code-block code .color-gold::selection {
   color: #003fbf;
 }
+.markdown pre.fenced-code-block code .color-brown {
+  color: #c08020;
+}
+.markdown pre.fenced-code-block code .color-brown::selection {
+  color: #3f7fdf;
+}
 .markdown pre.fenced-code-block span.code-fence-index {
   display: inline-block;
-  border-right: 0.143rem solid #40ffc0;
+  border-right: 0.143rem solid #40c040;
   text-align: right;
   padding-right: 0.571rem;
   margin-right: 1rem;
@@ -689,7 +818,7 @@ body .markdown img, body .markdown video, body .markdown iframe {
   color: #000000;
 }
 .markdown pre.fenced-code-block span.highlight.code-fence-row span.code-fence-index {
-  border-right: 0.143rem solid #bf003f;
+  border-right: 0.143rem solid #bf3fbf;
 }
 .markdown pre.fenced-code-block span.highlight.code-fence-row:hover {
   background-color: #ffffff60;
@@ -710,19 +839,28 @@ body .markdown img, body .markdown video, body .markdown iframe {
   color: #000000;
 }
 .markdown pre.fenced-code-block span.highlight span .color-red {
-  color: #3fbfbf;
+  color: #3fdfdf;
 }
 .markdown pre.fenced-code-block span.highlight span .color-green {
-  color: #bf3fbf;
+  color: #df3fdf;
+}
+.markdown pre.fenced-code-block span.highlight span .color-slateblue {
+  color: #bfbf3f;
 }
 .markdown pre.fenced-code-block span.highlight span .color-blue {
-  color: #bfbf3f;
+  color: #dfdf3f;
 }
 .markdown pre.fenced-code-block span.highlight span .color-aqua {
   color: #bf3f00;
 }
 .markdown pre.fenced-code-block span.highlight span .color-emerald {
+  color: #bf3fbf;
+}
+.markdown pre.fenced-code-block span.highlight span .color-turquoise {
   color: #bf003f;
+}
+.markdown pre.fenced-code-block span.highlight span .color-seagreen {
+  color: #df3f3f;
 }
 .markdown pre.fenced-code-block span.highlight span .color-violet {
   color: #3fbf00;
@@ -735,6 +873,9 @@ body .markdown img, body .markdown video, body .markdown iframe {
 }
 .markdown pre.fenced-code-block span.highlight span .color-gold {
   color: #003fbf;
+}
+.markdown pre.fenced-code-block span.highlight span .color-brown {
+  color: #3f7fdf;
 }
 .markdown button.copy-fenced-code {
   background-color: #404040;
@@ -867,4 +1008,48 @@ body .markdown img, body .markdown video, body .markdown iframe {
   border-left: 0.3333333333rem solid #0000;
   border-right: 0.3333333333rem solid #0000;
   border-bottom: 0.3333333333rem solid var(--white);
+}
+
+/*
+----- Sidebar -----
+*/
+#mdxt-sidebar {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 2;
+  /* I want it to be above the header (in my personal blog) */
+  top: 0;
+  left: 0;
+  background-color: var(--black);
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+#mdxt-sidebar-close-button {
+  position: absolute;
+  top: 0;
+  right: 1rem;
+  font-size: 1.571rem;
+  cursor: pointer;
+}
+
+#mdxt-sidebar-content {
+  padding: 1.524rem;
+}
+
+#mdxt-sidebar-toggle {
+  background-color: var(--gray);
+  position: fixed;
+  top: 15%;
+  height: 70%;
+  left: 0;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+#mdxt-sidebar-button-content {
+  display: block;
+  padding: 0.857rem 0.286rem 0px 0.286rem;
 }

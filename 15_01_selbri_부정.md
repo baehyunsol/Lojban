@@ -56,6 +56,8 @@
 > ta to'e [melbi]
 >> 이것은 못생겼다.
 
+물론 모든 selbri에 다 `to'e`를 붙일 수 있는 건 아니다. [stizu]의 반댓말이 있을까?
+
 ---
 
 [[center]]
