@@ -14,7 +14,7 @@ document.getElementById("settingsopenbutton").addEventListener("click", open_set
 document.getElementById("settingsclosebutton").addEventListener("click", close_settings);
 
 var root_doc = document.querySelector(":root");
-var horizontal_padding = 4;
+var horizontal_padding = 0;
 
 function grow_horiz() {
     horizontal_padding -= 24;

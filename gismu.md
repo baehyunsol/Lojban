@@ -1,821 +1,867 @@
 
 # gismu 목록
 
-## 읽는 법
-
 - 본 페이지에는 gismu들이 사전순서로 정렬돼 있습니다. 뜻을 이용해서 gismu를 찾고 싶은 경우에는 Ctrl+F로 한국어/영어 뜻을 검색해보세요.
-- 각 gismu에는 3개의 하위 항목이 있습니다. 순서대로 한국어 뜻풀이, 영어 동의어, 한국어 동의어입니다.
+- 각 gismu에는 4개의 하위 항목이 있습니다. 순서대로 한국어 뜻풀이, 영어 동의어, 한국어 동의어, 용례입니다.
 - 한국어 뜻풀이에서 [[highlight=red]]x1[[/highlight]], [[highlight=green]]x2[[/highlight]]등으로 표시된 부분은 sumti가 들어갈 자리입니다.
-- 용례의 링크를 클릭할 경우, 해당 gismu가 등장하는 챕터로 이동합니다. 챕터로 이동한 뒤 Ctrl+F로 다시 검색을 해주셔야 합니다.
+- 용례의 링크를 클릭할 경우, 해당 gismu가 등장하는 챕터로 이동합니다.
 
-[[giant]]알파벳 색인: [b](#indexb) [c](#indexc) [d](#indexd) [f](#indexf) [g](#indexg) [j](#indexj) [k](#indexk) [l](#indexl) [m](#indexm) [n](#indexn) [p](#indexp) [r](#indexr) [s](#indexs) [t](#indext) [v](#indexv) [x](#indexx) [z](#indexz)[[/giant]]
+[[giant]] 알파벳 색인: [b](#indexb) [c](#indexc) [d](#indexd) [f](#indexf) [g](#indexg) [j](#indexj) [k](#indexk) [l](#indexl) [m](#indexm) [n](#indexn) [p](#indexp) [r](#indexr) [s](#indexs) [t](#indext) [v](#indexv) [x](#indexx) [z](#indexz)[[/giant]]
 
 - b[[anchor, id=indexb]][[/anchor]]
   - [[giant]]bacru[[/giant]][[anchor, id=bacru]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](소리)를 내다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](소리)를 내다
     - 영어 동의어: talk, speak, tell, sound
     - 한국어 동의어: 소리내다
   - [[giant]]badri[[/giant]][[anchor, id=badri]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]] 때문에 슬프다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]] 때문에 슬프다
     - 영어 동의어: sad, unhappy, depressed, sorrow
     - 한국어 동의어: 슬픔
   - [[giant]]bajra[[/giant]][[anchor, id=bajra]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]에서 달린다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]에서 달린다
     - 영어 동의어: run, sprint
     - 한국어 동의어: 달리다
-    - 용례: [5.1](05_01_tanru.html)
+    - 용례: [0](05_01_tanru.html#474ee2), [1](09_03_fi'o.html#6825f8)
   - [[giant]]balvi[[/giant]][[anchor, id=balvi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]보다 나중에 발생하다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]보다 나중에 발생하다
     - 영어 동의어: later, latter, future, after, sequence
     - 한국어 동의어: 나중
   - [[giant]]bangu[[/giant]][[anchor, id=bangu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](화자)가 사용하는 언어이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](표현)를 나타내기 위해서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](화자)가 사용하는 언어이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](표현)를 나타내기 위해서
     - 영어 동의어: language, dialect
     - 한국어 동의어: 언어
   - [[giant]]banro[[/giant]][[anchor, id=banro]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 자라서 [[highlight=green]]x2[[/highlight]](나중 상태)가 되다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](원래 상태)에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 자라서 [[highlight=green]]x2[[/highlight]](나중 상태)가 되다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](원래 상태)에서
     - 영어 동의어: grow, expand
     - 한국어 동의어: 자라다
-    - 용례: [9.3](09_03_fi'o.html)
+    - 용례: [0](09_03_fi'o.html#1db8da)
+  - [[giant]]bapli[[/giant]][[anchor, id=bapli]][[/anchor]]
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](원치 않았지만 일어난 사건)의 원인이다
+    - 영어 동의어: force, compel
+    - 한국어 동의어: 강요
   - [[giant]]barda[[/giant]][[anchor, id=barda]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 큰 [[highlight=green]]x2[[/highlight]]이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 큰 [[highlight=green]]x2[[/highlight]]이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 기준에서
     - 영어 동의어: big, broad
     - 한국어 동의어: 큰
-    - 용례: [5.1](05_01_tanru.html), [5.2](05_02_bo.html), [5.4](05_04_je_ja.html), [6.2](06_02_le'i.html), [8.0](08_00_poi.html), [8.1](08_01_pe.html), [8.2](08_02_zi'e.html), [9.0](09_00_cu.html)
+    - 용례: [0](06_02_le'i.html#a3de32), [1](08_00_poi.html#6085c6), [2](08_00_poi.html#2edd43), [3](08_01_pe.html#d9eab6), [4](06_02_le'i.html#fa83cc), [5](09_00_cu.html#b359bb), [6](09_00_cu.html#df4463), [7](05_02_bo.html#f1bcb0), [8](08_02_zi'e.html#711088), [9](05_04_je_ja.html#f43aa0), [10](08_00_poi.html#3fb716), [11](05_04_je_ja.html#a1e488), [12](05_04_je_ja.html#68b14e), [13](08_00_poi.html#3b6a66), [14](08_00_poi.html#3d48b9), [15](05_01_tanru.html#904d0c), [16](08_00_poi.html#12a1fa)
   - [[giant]]basti[[/giant]][[anchor, id=basti]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 대체하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 상황에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 대체하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 상황에서
     - 영어 동의어: replace, substitute
     - 한국어 동의어: 대체하다
   - [[giant]]batci[[/giant]][[anchor, id=batci]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 물다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](장소)에서, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](이빨)로
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 물다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](장소)에서, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](이빨)로
     - 영어 동의어: bite, pinch
     - 한국어 동의어: 물다
-    - 용례: [10.1](10_01_공간.html), [10.2](10_02_시간.html)
+    - 용례: [0](10_01_공간.html#ea78f9), [1](10_02_시간.html#b456e8), [2](10_01_공간.html#287c5c), [3](10_02_시간.html#f6b20a), [4](10_02_시간.html#7af25f), [5](10_02_시간.html#43c2a1), [6](10_02_시간.html#b7e938), [7](10_01_공간.html#065e0d), [8](10_01_공간.html#abfd41), [9](10_01_공간.html#4e8c1e), [10](10_02_시간.html#45096f), [11](10_01_공간.html#807a3f), [12](10_02_시간.html#9364bb), [13](10_02_시간.html#8fcfeb), [14](10_02_시간.html#9edf53)
   - [[giant]]bebna[[/giant]][[anchor, id=bebna]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 바보다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 바보다
     - 영어 동의어: fool, stupid
     - 한국어 동의어: 바보
-    - 용례: [11.4](11_04_문장_추상화.html)
+    - 용례: [0](11_04_문장_추상화.html#6183f6), [1](11_04_문장_추상화.html#3ce0f8), [2](11_04_문장_추상화.html#9ad646), [3](11_04_문장_추상화.html#8f59e5), [4](11_04_문장_추상화.html#3210ca)
+  - [[giant]]benji[[/giant]][[anchor, id=benji]][[/anchor]]
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]](송신자)이 [[highlight=green]]x2[[/highlight]]를 전달한다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](수신자)에게, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](출발지점)에서 [[highlight=violet]]x5[[/highlight]](수단)를 통해서
+    - 영어 동의어: transfer, send, transmit
+    - 한국어 동의어: 전달
+  - [[giant]]berti[[/giant]][[anchor, id=berti]][[/anchor]]
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 북쪽이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 좌표계에서
+    - 영어 동의어: north
+    - 한국어 동의어: 북(north)
+    - 용례: [0](09_03_fi'o.html#52eba4)
   - [[giant]]bevri[[/giant]][[anchor, id=bevri]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](짐)를 운반하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](출발지)에서 [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](목적지)까지, [[highlight=violet]]x5[[/highlight]]의 경로로
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](짐)를 운반하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](출발지)에서 [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](목적지)까지, [[highlight=violet]]x5[[/highlight]]의 경로로
     - 영어 동의어: carry, haul, transport
     - 한국어 동의어: 운반하다
-    - 용례: [6.1](06_01_lei.html)
+    - 용례: [0](06_01_lei.html#7a2bdd), [1](06_01_lei.html#48f506)
   - [[giant]]bilma[[/giant]][[anchor, id=bilma]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]의 증상을 보이며 아프다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](병) 때문에
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]의 증상을 보이며 아프다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](병) 때문에
     - 영어 동의어: sick, ill, disease
     - 한국어 동의어: 아프다
   - [[giant]]birka[[/giant]][[anchor, id=birka]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 팔(arm)이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 팔(arm)이다
     - 영어 동의어: arm
     - 한국어 동의어: 팔(arm)
-    - 용례: [8.1](08_01_pe.html)
+    - 용례: [0](08_01_pe.html#6bd0af)
   - [[giant]]bisli[[/giant]][[anchor, id=bisli]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](원료)로 된 얼음이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](원료)로 된 얼음이다
     - 영어 동의어: ice
     - 한국어 동의어: 얼음
-    - 용례: [10.3](10_03_시공간_범위.html), [15.3](15_03_cmavo_부정.html)
+    - 용례: [0](15_03_cmavo_부정.html#4d52e8), [1](10_03_시공간_범위.html#51f5fa), [2](10_03_시공간_범위.html#7a94ba), [3](10_03_시공간_범위.html#7239e0)
   - [[giant]]blabi[[/giant]][[anchor, id=blabi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 밝다/하얗다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 밝다/하얗다
     - 영어 동의어: white, bright
     - 한국어 동의어: 밝다
   - [[giant]]blanu[[/giant]][[anchor, id=blanu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 파랗다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 파랗다
     - 영어 동의어: blue
     - 한국어 동의어: 파랑
-    - 용례: [7.4](07_04_변수.html), [8.1](08_01_pe.html), [8.2](08_02_zi'e.html), [9.2](09_02_se.html), [11.2](11_02_성질_추상화.html), [11.3](11_03_정도_추상화.html)
+    - 용례: [0](11_02_성질_추상화.html#42d3bf), [1](11_03_정도_추상화.html#6d531a), [2](11_02_성질_추상화.html#2abc31), [3](11_03_정도_추상화.html#01bcb3), [4](08_01_pe.html#63a16c), [5](08_02_zi'e.html#711088), [6](07_04_변수.html#d6bea4), [7](08_00_poi.html#3b6a66), [8](08_02_zi'e.html#24d979), [9](08_00_poi.html#12a1fa)
   - [[giant]]botpi[[/giant]][[anchor, id=botpi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]를 담는 병(bottle)이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](재료)로 된, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](뚜껑)가 달린
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]를 담는 병(bottle)이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](재료)로 된, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](뚜껑)가 달린
     - 영어 동의어: bottle
     - 한국어 동의어: 병(bottle)
-    - 용례: [8.1](08_01_pe.html)
+    - 용례: [0](08_01_pe.html#1f4684)
   - [[giant]]bradi[[/giant]][[anchor, id=bradi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 적이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 다툼에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 적이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 다툼에서
     - 영어 동의어: enemy, foe, struggle
     - 한국어 동의어: 적
   - [[giant]]bunre[[/giant]][[anchor, id=bunre]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 갈색이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 갈색이다
     - 영어 동의어: brown
     - 한국어 동의어: 갈색
 - c[[anchor, id=indexc]][[/anchor]]
   - [[giant]]cabna[[/giant]][[anchor, id=cabna]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]과 [[highlight=green]]x2[[/highlight]]는 동시에 존재한다/일어난다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]과 [[highlight=green]]x2[[/highlight]]는 동시에 존재한다/일어난다
     - 영어 동의어: current, present, simultaneous
     - 한국어 동의어: 동시
   - [[giant]]cadzu[[/giant]][[anchor, id=cadzu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 향해서 걸어가다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 향해서 걸어가다
     - 영어 동의어: walk, stride
     - 한국어 동의어: 걷다
-    - 용례: [9.3](09_03_fi'o.html), [10.3](10_03_시공간_범위.html), [15.1](15_01_selbri_부정.html)
+    - 용례: [0](15_01_selbri_부정.html#695631), [1](15_01_selbri_부정.html#15a808), [2](15_01_selbri_부정.html#14d1d1), [3](10_03_시공간_범위.html#51f5fa), [4](09_03_fi'o.html#56bed2), [5](15_01_selbri_부정.html#8e8bbb), [6](10_03_시공간_범위.html#7a94ba), [7](10_03_시공간_범위.html#7239e0)
   - [[giant]]cafne[[/giant]][[anchor, id=cafne]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 자주 있는 일이다, [[highlight=green]]x2[[/highlight]]의 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 자주 있는 일이다, [[highlight=green]]x2[[/highlight]]의 기준에서
     - 영어 동의어: often, frequent
     - 한국어 동의어: 자주
   - [[giant]]canlu[[/giant]][[anchor, id=canlu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]가 점유하는 공간이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]가 점유하는 공간이다
     - 영어 동의어: space, volume, region, room
     - 한국어 동의어: 공간
-    - 용례: [10.1](10_01_공간.html)
+    - 용례: [0](05_05_be_bei.html#2fc154)
   - [[giant]]catlu[[/giant]][[anchor, id=catlu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 응시하다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 응시하다
     - 영어 동의어: look, observe, gaze, watch
     - 한국어 동의어: 응시
-    - 용례: [15.2](15_02_sumti_부정.html), [18.0](18_00_숫자.html), [18.1](18_01_수량.html)
+    - 용례: [0](18_01_수량.html#15188d), [1](18_01_수량.html#8a0be9), [2](18_00_숫자.html#aab481), [3](18_01_수량.html#1242be), [4](15_02_sumti_부정.html#5b489b)
   - [[giant]]catra[[/giant]][[anchor, id=catra]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 죽이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]를 이용해서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 죽이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]를 이용해서
     - 영어 동의어: kill, murder, slaughter
     - 한국어 동의어: 죽이다
-    - 용례: [11.1](11_01_사건_추상화.html)
+    - 용례: [0](11_01_사건_추상화.html#fd39f0)
   - [[giant]]cenba[[/giant]][[anchor, id=cenba]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](성질)가 바뀐다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]만큼, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]]의 조건에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](성질)가 바뀐다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]만큼, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]]의 조건에서
     - 영어 동의어: vary, change
     - 한국어 동의어: 변화
-    - 용례: [11.3](11_03_정도_추상화.html)
+    - 용례: [0](11_03_정도_추상화.html#01bcb3), [1](11_03_정도_추상화.html#6d531a)
   - [[giant]]ciksi[[/giant]][[anchor, id=ciksi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에게 [[highlight=green]]x2[[/highlight]]에 대해서 설명하다. ([[highlight=emerald]][[black]]x4[[/black]][[/highlight]]는 설명 그 자체)
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에게 [[highlight=green]]x2[[/highlight]]에 대해서 설명하다. ([[highlight=emerald]][[black]]x4[[/black]][[/highlight]]는 설명 그 자체)
     - 영어 동의어: explain, describe
     - 한국어 동의어: 설명하다
   - [[giant]]cinfo[[/giant]][[anchor, id=cinfo]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]종의 사자다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]종의 사자다
     - 영어 동의어: lion
     - 한국어 동의어: 사자
-    - 용례: [6.1](06_01_lei.html), [6.2](06_02_le'i.html)
+    - 용례: [0](06_02_le'i.html#a3de32), [1](06_01_lei.html#2eb3db), [2](06_02_le'i.html#9a573b), [3](06_02_le'i.html#fa83cc)
   - [[giant]]cinmo[[/giant]][[anchor, id=cinmo]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](감정)를 느끼다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](대상)에 대해
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](감정)를 느끼다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](대상)에 대해
     - 영어 동의어: feel, emotion, mood
     - 한국어 동의어: 감정
   - [[giant]]ciska[[/giant]][[anchor, id=ciska]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]](기록자)이 [[highlight=green]]x2[[/highlight]]를 기록하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](매체)에, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](필기도구)를 이용해서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]](기록자)이 [[highlight=green]]x2[[/highlight]]를 기록하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](매체)에, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](필기도구)를 이용해서
     - 영어 동의어: write, inscribe
     - 한국어 동의어: 기록
   - [[giant]]citka[[/giant]][[anchor, id=citka]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 먹다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 먹다
     - 영어 동의어: eat, consume
     - 한국어 동의어: 먹다
-    - 용례: [18.1](18_01_수량.html)
+    - 용례: [0](18_01_수량.html#943d63), [1](18_01_수량.html#4c8042), [2](18_01_수량.html#3ad3b3), [3](18_01_수량.html#7abac1), [4](18_01_수량.html#f4c4e4)
   - [[giant]]citno[[/giant]][[anchor, id=citno]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 젊다, [[highlight=green]]x2[[/highlight]]의 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 젊다, [[highlight=green]]x2[[/highlight]]의 기준에서
     - 영어 동의어: young, youth
     - 한국어 동의어: 젊음
   - [[giant]]ckape[[/giant]][[anchor, id=ckape]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]에게 위험한 존재다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 조건에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]에게 위험한 존재다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 조건에서
     - 영어 동의어: danger, harm
     - 한국어 동의어: 위험
-    - 용례: [11.1](11_01_사건_추상화.html)
+    - 용례: [0](11_01_사건_추상화.html#d48ce4)
   - [[giant]]ckule[[/giant]][[anchor, id=ckule]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](장소)에 있는 학교다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](과목)를 가르치는, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](학생)에게, [[highlight=violet]]x5[[/highlight]](학교운영주체)의
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](장소)에 있는 학교다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](과목)를 가르치는, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](학생)에게, [[highlight=violet]]x5[[/highlight]](학교운영주체)의
     - 영어 동의어: school, academy
     - 한국어 동의어: 학교
-    - 용례: [5.1](05_01_tanru.html), [5.2](05_02_bo.html), [5.3](05_03_ke.html), [5.4](05_04_je_ja.html), [7.7](07_07_zo'e.html)
+    - 용례: [0](07_07_zo'e.html#084c8c), [1](05_02_bo.html#25c191), [2](05_02_bo.html#32911b), [3](05_05_be_bei.html#2fc154), [4](05_01_tanru.html#4b3e86), [5](05_04_je_ja.html#e2a8b4), [6](05_03_ke.html#b52423)
   - [[giant]]clani[[/giant]][[anchor, id=clani]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]] 방향으로 길다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](측정기준)로
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]] 방향으로 길다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](측정기준)로
     - 영어 동의어: long
     - 한국어 동의어: 길다
   - [[giant]]cmaci[[/giant]][[anchor, id=cmaci]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 수학(mathematics)이다, [[highlight=green]]x2[[/highlight]]를 설명하는
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 수학(mathematics)이다, [[highlight=green]]x2[[/highlight]]를 설명하는
     - 영어 동의어: math
     - 한국어 동의어: 수학
   - [[giant]]cmalu[[/giant]][[anchor, id=cmalu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 작은 [[highlight=green]]x2[[/highlight]]이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 작은 [[highlight=green]]x2[[/highlight]]이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 기준에서
     - 영어 동의어: small, tiny, little
     - 한국어 동의어: 작은
-    - 용례: [5.1](05_01_tanru.html), [5.2](05_02_bo.html), [5.3](05_03_ke.html), [5.4](05_04_je_ja.html)
+    - 용례: [0](05_02_bo.html#25c191), [1](05_02_bo.html#a90f9c), [2](05_02_bo.html#32911b), [3](05_05_be_bei.html#2fc154), [4](05_01_tanru.html#478cc2), [5](05_01_tanru.html#4b3e86), [6](05_04_je_ja.html#e2a8b4), [7](05_03_ke.html#b52423)
   - [[giant]]cmene[[/giant]][[anchor, id=cmene]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]의 이름은 [[highlight=green]]x2[[/highlight]]이다. [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]가 그렇게 부른다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]의 이름은 [[highlight=green]]x2[[/highlight]]이다. [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]가 그렇게 부른다
     - 영어 동의어: name, call
     - 한국어 동의어: 이름
-    - 용례: [7.9](07_09_의문문.html)
+    - 용례: [0](07_09_의문문.html#da2ddc)
   - [[giant]]cnino[[/giant]][[anchor, id=cnino]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](관측자)에게 새롭다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 기능이, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]]라는 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](관측자)에게 새롭다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 기능이, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]]라는 기준에서
     - 영어 동의어: new, novel, unfamiliar, original
     - 한국어 동의어: 새롭다
   - [[giant]]cnita[[/giant]][[anchor, id=cnita]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]보다 아래에 있다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 좌표계에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]보다 아래에 있다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 좌표계에서
     - 영어 동의어: beneath, below, under
     - 한국어 동의어: 아래쪽
-    - 용례: [10.1](10_01_공간.html)
   - [[giant]]crane[[/giant]][[anchor, id=crane]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]보다 앞쪽에 있다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 좌표계에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]보다 앞쪽에 있다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 좌표계에서
     - 영어 동의어: ahead, forward
     - 한국어 동의어: 앞쪽
   - [[giant]]crino[[/giant]][[anchor, id=crino]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 초록색이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 초록색이다
     - 영어 동의어: green
     - 한국어 동의어: 초록
   - [[giant]]ctuca[[/giant]][[anchor, id=ctuca]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]](선생)이 [[highlight=green]]x2[[/highlight]](학생)에게 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](내용)를 가르치다, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](과목)의, [[highlight=violet]]x5[[/highlight]](교수법)로
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]](선생)이 [[highlight=green]]x2[[/highlight]](학생)에게 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](내용)를 가르치다, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](과목)의, [[highlight=violet]]x5[[/highlight]](교수법)로
     - 영어 동의어: teach, educate
     - 한국어 동의어: 가르치다
   - [[giant]]cukta[[/giant]][[anchor, id=cukta]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](내용)에 관한 책이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](저자)가 쓴, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](독자)를 위해서, [[highlight=violet]]x5[[/highlight]](종이/파피루스)에 쓴
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](내용)에 관한 책이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](저자)가 쓴, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](독자)를 위해서, [[highlight=violet]]x5[[/highlight]](종이/파피루스)에 쓴
     - 영어 동의어: book
     - 한국어 동의어: 책
+    - 용례: [0](14_00_접속사.html#3b476f), [1](14_00_접속사.html#444fb2)
   - [[giant]]cusku[[/giant]][[anchor, id=cusku]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에게 [[highlight=green]]x2[[/highlight]]에 대해서 말하다. ([[highlight=emerald]][[black]]x4[[/black]][[/highlight]]를 이용해서)
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에게 [[highlight=green]]x2[[/highlight]]에 대해서 말하다. ([[highlight=emerald]][[black]]x4[[/black]][[/highlight]]를 이용해서)
     - 영어 동의어: express, say
     - 한국어 동의어: 말하다
-    - 용례: [7.3](07_03_bridi_cmavo.html)
+    - 용례: [0](07_03_bridi_cmavo.html#8d1fea)
   - [[giant]]cutci[[/giant]][[anchor, id=cutci]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](발)를 위한 신발이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](재료)로 만든
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](발)를 위한 신발이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](재료)로 만든
     - 영어 동의어: shoe, boot
     - 한국어 동의어: 신발
 - d[[anchor, id=indexd]][[/anchor]]
   - [[giant]]dansu[[/giant]][[anchor, id=dansu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](음악/리듬/댄스동반자)와 함께 춤을 추다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](음악/리듬/댄스동반자)와 함께 춤을 추다
     - 영어 동의어: dance
     - 한국어 동의어: 춤
-    - 용례: [15.0](15_00_bridi_부정.html), [15.3](15_03_cmavo_부정.html)
+    - 용례: [0](15_03_cmavo_부정.html#4d52e8), [1](15_00_bridi_부정.html#4f12c7)
   - [[giant]]darxi[[/giant]][[anchor, id=darxi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 때리다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](도구/손)로, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](장소)에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 때리다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](도구/손)로, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](장소)에서
     - 영어 동의어: hit, strike, beat
     - 한국어 동의어: 때리다
   - [[giant]]denpa[[/giant]][[anchor, id=denpa]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](사건)를 기다리다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]([[highlight=green]]x2[[/highlight]]의 현재 상태)에 있는, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]]([[highlight=green]]x2[[/highlight]]이후에 할 거) 하기 전에
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](사건)를 기다리다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]([[highlight=green]]x2[[/highlight]]의 현재 상태)에 있는, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]]([[highlight=green]]x2[[/highlight]]이후에 할 거) 하기 전에
     - 영어 동의어: wait, pause
     - 한국어 동의어: 기다리다
   - [[giant]]dikca[[/giant]][[anchor, id=dikca]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 전기/전류/전자/전하이다, [[highlight=green]]x2[[/highlight]]에 흐르는, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](극성)의
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 전기/전류/전자/전하이다, [[highlight=green]]x2[[/highlight]]에 흐르는, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](극성)의
     - 영어 동의어: electric, electricity, current, electron, charge
     - 한국어 동의어: 전기
   - [[giant]]djacu[[/giant]][[anchor, id=djacu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 물이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 물이다
     - 영어 동의어: water, aqua
     - 한국어 동의어: 물
-    - 용례: [9.3](09_03_fi'o.html)
+    - 용례: [0](09_03_fi'o.html#1db8da)
   - [[giant]]djica[[/giant]][[anchor, id=djica]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]를 원한다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 목적으로
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]를 원한다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 목적으로
     - 영어 동의어: want, desire, hope
     - 한국어 동의어: 원하다
-    - 용례: [11.0](11_00_nu.html)
+    - 용례: [0](11_00_nu.html#50bc4b), [1](11_00_nu.html#20b5b4), [2](11_00_nu.html#e40533), [3](11_00_nu.html#84b964)
+  - [[giant]]djine[[/giant]][[anchor, id=djine]][[/anchor]]
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 원/고리 (모양 혹은 형체)이다, [[highlight=green]]x2[[/highlight]](재질)로 된, 내부 지름이 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]고 외부 지름이 [[highlight=emerald]][[black]]x4[[/black]][[/highlight]]인
+    - 영어 동의어: ring, circle, torus
+    - 한국어 동의어: 원
+    - 용례: [0](09_03_fi'o.html#6825f8)
   - [[giant]]djuno[[/giant]][[anchor, id=djuno]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 알다. [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]는 [[highlight=green]]x2[[/highlight]]의 주제.
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 알다. [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]는 [[highlight=green]]x2[[/highlight]]의 주제.
     - 영어 동의어: know
     - 한국어 동의어: 알다
-    - 용례: [7.9](07_09_의문문.html), [11.4](11_04_문장_추상화.html)
+    - 용례: [0](11_04_문장_추상화.html#6183f6), [1](07_09_의문문.html#3382d4), [2](11_04_문장_추상화.html#3210ca), [3](11_04_문장_추상화.html#3ce0f8)
   - [[giant]]drata[[/giant]][[anchor, id=drata]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]과 [[highlight=green]]x2[[/highlight]]는 다르다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]과 [[highlight=green]]x2[[/highlight]]는 다르다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 기준에서
     - 영어 동의어: different
     - 한국어 동의어: 다르다
   - [[giant]]dukse[[/giant]][[anchor, id=dukse]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]가 너무 많다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]가 너무 많다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 기준에서
     - 영어 동의어: excess, much, many
     - 한국어 동의어: 너무 많다
   - [[giant]]dunda[[/giant]][[anchor, id=dunda]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에게 주다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에게 주다
     - 영어 동의어: give, donate, gift, present
     - 한국어 동의어: 주다
-    - 용례: [9.3](09_03_fi'o.html)
+    - 용례: [0](14_00_접속사.html#3b476f), [1](09_03_fi'o.html#1db8da), [2](14_00_접속사.html#444fb2)
 - f[[anchor, id=indexf]][[/anchor]]
   - [[giant]]fagri[[/giant]][[anchor, id=fagri]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 불(fire)이다, [[highlight=green]]x2[[/highlight]](연료)와 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](산화제)로 타는
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 불(fire)이다, [[highlight=green]]x2[[/highlight]](연료)와 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](산화제)로 타는
     - 영어 동의어: fire, flame
     - 한국어 동의어: 불(fire)
   - [[giant]]fanva[[/giant]][[anchor, id=fanva]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]](번역가)이 [[highlight=green]]x2[[/highlight]](번역 전의 글)를 번역하다, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]] 언어에서 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]언어로, [[highlight=violet]]x5[[/highlight]](번역 후의 글)
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]](번역가)이 [[highlight=green]]x2[[/highlight]](번역 전의 글)를 번역하다, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]] 언어에서 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]언어로, [[highlight=violet]]x5[[/highlight]](번역 후의 글)
     - 영어 동의어: translate
     - 한국어 동의어: 번역하다
+  - [[giant]]farna[[/giant]][[anchor, id=farna]][[/anchor]]
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]](방향) 방향에 있다, [[highlight=green]]x2[[/highlight]](물체)는, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]를 기준으로 했을 때
+    - 영어 동의어: direction
+    - 한국어 동의어: 방향
   - [[giant]]fasnu[[/giant]][[anchor, id=fasnu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]](사건)이 발생하다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]](사건)이 발생하다
     - 영어 동의어: happen, occur, event
     - 한국어 동의어: 발생
   - [[giant]]festi[[/giant]][[anchor, id=festi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](사건/사람)에 의한 쓰레기이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](사건/사람)에 의한 쓰레기이다
     - 영어 동의어: waste, garbage, trash
     - 한국어 동의어: 쓰레기
   - [[giant]]fetsi[[/giant]][[anchor, id=fetsi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]라는 종의 암컷이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 특징으로 보았을 때
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]라는 종의 암컷이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 특징으로 보았을 때
     - 영어 동의어: female, woman, she
     - 한국어 동의어: 암컷
   - [[giant]]flira[[/giant]][[anchor, id=flira]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 얼굴이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 얼굴이다
     - 영어 동의어: face
     - 한국어 동의어: 얼굴
   - [[giant]]frili[[/giant]][[anchor, id=frili]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](행위자)에게 쉽다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 조건에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](행위자)에게 쉽다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 조건에서
     - 영어 동의어: easy, simple
     - 한국어 동의어: 쉽다
 - g[[anchor, id=indexg]][[/anchor]]
   - [[giant]]galtu[[/giant]][[anchor, id=galtu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 위에 있다, [[highlight=green]]x2[[/highlight]]의 기준에서, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]보다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 위에 있다, [[highlight=green]]x2[[/highlight]]의 기준에서, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]보다
     - 영어 동의어: high, up, upward
     - 한국어 동의어: 위
-    - 용례: [10.1](10_01_공간.html)
   - [[giant]]gasnu[[/giant]][[anchor, id=gasnu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]](사람)이 [[highlight=green]]x2[[/highlight]](사건)의 원인이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]](사람)이 [[highlight=green]]x2[[/highlight]](사건)의 원인이다
     - 영어 동의어: cause
     - 한국어 동의어: 행위
-    - 용례: [11.3](11_03_정도_추상화.html)
+    - 용례: [0](11_03_정도_추상화.html#013502)
   - [[giant]]gerku[[/giant]][[anchor, id=gerku]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]] 종류의 개(dog)/개새끼(bitch)다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]] 종류의 개(dog)/개새끼(bitch)다
     - 영어 동의어: dog, puppy, bitch
     - 한국어 동의어: 개
-    - 용례: [5.2](05_02_bo.html), [5.4](05_04_je_ja.html), [7.4](07_04_변수.html), [8.0](08_00_poi.html), [8.1](08_01_pe.html), [8.2](08_02_zi'e.html), [9.0](09_00_cu.html), [10.1](10_01_공간.html), [10.2](10_02_시간.html)
+    - 용례: [0](10_02_시간.html#f6b20a), [1](09_00_cu.html#b359bb), [2](10_02_시간.html#45096f), [3](05_02_bo.html#f1bcb0), [4](10_01_공간.html#ea78f9), [5](10_02_시간.html#b456e8), [6](10_02_시간.html#7af25f), [7](08_01_pe.html#d9eab6), [8](10_02_시간.html#43c2a1), [9](10_01_공간.html#065e0d), [10](10_01_공간.html#4e8c1e), [11](10_01_공간.html#807a3f), [12](07_04_변수.html#e6b035), [13](05_04_je_ja.html#f43aa0), [14](10_01_공간.html#abfd41), [15](09_00_cu.html#df4463), [16](10_02_시간.html#9364bb), [17](05_04_je_ja.html#68b14e), [18](10_02_시간.html#9edf53), [19](08_00_poi.html#12a1fa), [20](10_01_공간.html#287c5c), [21](10_02_시간.html#b7e938), [22](05_04_je_ja.html#a1e488), [23](08_02_zi'e.html#711088), [24](10_02_시간.html#8fcfeb), [25](08_00_poi.html#3b6a66)
   - [[giant]]gleki[[/giant]][[anchor, id=gleki]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](상태/사건)로 인해 행복하다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](상태/사건)로 인해 행복하다
     - 영어 동의어: happy, pleasure, glad, merry
     - 한국어 동의어: 행복하다
-    - 용례: [15.0](15_00_bridi_부정.html)
+    - 용례: [0](15_00_bridi_부정.html#4f12c7)
+  - [[giant]]gugde[[/giant]][[anchor, id=gugde]][[/anchor]]
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 국가이다, [[highlight=green]]x2[[/highlight]](사람들)가 사는, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](영토)에서
+    - 영어 동의어: country, nation
+    - 한국어 동의어: 국가
 - j[[anchor, id=indexj]][[/anchor]]
   - [[giant]]jdice[[/giant]][[anchor, id=jdice]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 결정하다, ([[highlight=green]]x2[[/highlight]]는 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에 관한 결정)
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 결정하다, ([[highlight=green]]x2[[/highlight]]는 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에 관한 결정)
     - 영어 동의어: decide
     - 한국어 동의어: 결정하다
-    - 용례: [11.3](11_03_정도_추상화.html)
+    - 용례: [0](11_03_정도_추상화.html#013502)
   - [[giant]]jdika[[/giant]][[anchor, id=jdika]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]가 [[highlight=green]]x2[[/highlight]](성질/수량)의 감소를 경험하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](감소한 양)만큼
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]가 [[highlight=green]]x2[[/highlight]](성질/수량)의 감소를 경험하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](감소한 양)만큼
     - 영어 동의어: decrease, decrement, contract, reduce
     - 한국어 동의어: 감소
   - [[giant]]jetnu[[/giant]][[anchor, id=jetnu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 기준에서 진실이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 기준에서 진실이다
     - 영어 동의어: true, truth
     - 한국어 동의어: 진실
   - [[giant]]jitfa[[/giant]][[anchor, id=jitfa]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 기준에서 거짓이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 기준에서 거짓이다
     - 영어 동의어: false
     - 한국어 동의어: 거짓
-    - 용례: [7.3](07_03_bridi_cmavo.html)
   - [[giant]]jmive[[/giant]][[anchor, id=jmive]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 살아있다, [[highlight=green]]x2[[/highlight]]의 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 살아있다, [[highlight=green]]x2[[/highlight]]의 기준에서
     - 영어 동의어: live, alive
     - 한국어 동의어: 살아있다
-    - 용례: [11.1](11_01_사건_추상화.html)
+    - 용례: [0](11_01_사건_추상화.html#d48ce4)
   - [[giant]]jubme[[/giant]][[anchor, id=jubme]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](책상 재질)로 된 책상이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](책상 다리)가 지지하는
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](책상 재질)로 된 책상이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](책상 다리)가 지지하는
     - 영어 동의어: table
     - 한국어 동의어: 책상
-    - 용례: [5.1](05_01_tanru.html)
+    - 용례: [0](05_01_tanru.html#80425d)
   - [[giant]]jufra[[/giant]][[anchor, id=jufra]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]에 관한 문장이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](언어)로 된
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]에 관한 문장이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](언어)로 된
     - 영어 동의어: sentence, statement
     - 한국어 동의어: 문장
-    - 용례: [7.3](07_03_bridi_cmavo.html)
   - [[giant]]jundi[[/giant]][[anchor, id=jundi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]에 집중하다/주의를 기울이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]에 집중하다/주의를 기울이다
     - 영어 동의어: attention
     - 한국어 동의어: 집중
 - k[[anchor, id=indexk]][[/anchor]]
   - [[giant]]kakne[[/giant]][[anchor, id=kakne]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](행동/상태)를 할 수 있다/될 수 있다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 조건/상태에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](행동/상태)를 할 수 있다/될 수 있다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 조건/상태에서
     - 영어 동의어: can, able, capable
     - 한국어 동의어: 가능
   - [[giant]]kanla[[/giant]][[anchor, id=kanla]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 눈(eye)이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 눈(eye)이다
     - 영어 동의어: eye, ocular
     - 한국어 동의어: 눈(eye)
-    - 용례: [9.3](09_03_fi'o.html)
+    - 용례: [0](09_03_fi'o.html#f0c02c), [1](09_03_fi'o.html#b7948f)
   - [[giant]]kanro[[/giant]][[anchor, id=kanro]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 건강하다, [[highlight=green]]x2[[/highlight]]란 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 건강하다, [[highlight=green]]x2[[/highlight]]란 기준에서
     - 영어 동의어: healthy, sound
     - 한국어 동의어: 건강하다
   - [[giant]]karce[[/giant]][[anchor, id=karce]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](승객)를 태우는 차/트럭이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](동력)로 가는
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](승객)를 태우는 차/트럭이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](동력)로 가는
     - 영어 동의어: car, automobile, truck, van
     - 한국어 동의어: 차
-    - 용례: [7.7](07_07_zo'e.html), [7.9](07_09_의문문.html), [9.0](09_00_cu.html), [9.1](09_01_fa.html)
+    - 용례: [0](07_07_zo'e.html#617956), [1](09_00_cu.html#1f40f4), [2](09_00_cu.html#5c52a0), [3](09_01_fa.html#33abf2), [4](09_01_fa.html#142972), [5](09_01_fa.html#c8555a), [6](07_09_의문문.html#1728eb)
   - [[giant]]kargu[[/giant]][[anchor, id=kargu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]](물건/서비스)은 [[highlight=green]]x2[[/highlight]](구매자)에게 비싸다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]](물건/서비스)은 [[highlight=green]]x2[[/highlight]](구매자)에게 비싸다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 기준에서
     - 영어 동의어: expensive, costly
     - 한국어 동의어: 비싸다
   - [[giant]]kavbu[[/giant]][[anchor, id=kavbu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 잡다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](도구/덫)를 이용해서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 잡다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](도구/덫)를 이용해서
     - 영어 동의어: catch, capture
     - 한국어 동의어: 잡다
-    - 용례: [5.2](05_02_bo.html)
+    - 용례: [0](05_02_bo.html#f1bcb0)
   - [[giant]]klama[[/giant]][[anchor, id=klama]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 향해 가다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에서 출발해서, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]]의 경로를 통해서, [[highlight=violet]]x5[[/highlight]]를 타고
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 향해 가다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에서 출발해서, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]]의 경로를 통해서, [[highlight=violet]]x5[[/highlight]]를 타고
     - 영어 동의어: come, go, destination, move
     - 한국어 동의어: 가다
-    - 용례: [5.5](05_05_be_bei.html), [6.0](06_00_le.html), [7.4](07_04_변수.html), [7.7](07_07_zo'e.html), [7.8](07_08_vo'a.html), [7.9](07_09_의문문.html), [9.0](09_00_cu.html), [9.1](09_01_fa.html), [9.2](09_02_se.html), [10.0](10_00_시공간_표현.html), [10.3](10_03_시공간_범위.html), [15.0](15_00_bridi_부정.html), [15.1](15_01_selbri_부정.html), [15.3](15_03_cmavo_부정.html)
+    - 용례: [0](10_03_시공간_범위.html#17f381), [1](15_01_selbri_부정.html#15a808), [2](07_07_zo'e.html#084c8c), [3](09_01_fa.html#33abf2), [4](09_03_fi'o.html#52eba4), [5](09_01_fa.html#c8555a), [6](15_01_selbri_부정.html#8e8bbb), [7](10_00_시공간_표현.html#af4396), [8](07_04_변수.html#b6f8e1), [9](07_09_의문문.html#1fd7b0), [10](15_01_selbri_부정.html#695631), [11](09_00_cu.html#1f40f4), [12](09_00_cu.html#5c52a0), [13](10_03_시공간_범위.html#d621ca), [14](09_01_fa.html#142972), [15](15_00_bridi_부정.html#4f12c7), [16](07_07_zo'e.html#aba892), [17](07_07_zo'e.html#617956), [18](15_01_selbri_부정.html#14d1d1), [19](15_03_cmavo_부정.html#048e28), [20](15_00_bridi_부정.html#3aef9c), [21](15_03_cmavo_부정.html#46e3d4), [22](06_00_le.html#0095ca), [23](06_00_le.html#61d38b), [24](07_04_변수.html#fc3d53), [25](07_08_vo'a.html#574963), [26](06_00_le.html#a6812f), [27](07_08_vo'a.html#3bf906), [28](05_01_tanru.html#80425d), [29](07_04_변수.html#8ce86e), [30](07_04_변수.html#6e2edd)
   - [[giant]]kucli[[/giant]][[anchor, id=kucli]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]에 대해서 궁금해하다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]에 대해서 궁금해하다
     - 영어 동의어: curious, wonder, interest
     - 한국어 동의어: 궁금해하다
-    - 용례: [11.4](11_04_문장_추상화.html)
+    - 용례: [0](11_04_문장_추상화.html#8f59e5), [1](11_04_문장_추상화.html#9ad646)
   - [[giant]]kumfa[[/giant]][[anchor, id=kumfa]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](구조)의 방이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](벽/천장/바닥)로 둘러 싸인
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](구조)의 방이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](벽/천장/바닥)로 둘러 싸인
     - 영어 동의어: room
     - 한국어 동의어: 방
-    - 용례: [7.5](07_05_sumti_cmavo_2.html)
+    - 용례: [0](07_05_sumti_cmavo_2.html#a60de7)
   - [[giant]]kurji[[/giant]][[anchor, id=kurji]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 보살피다/돌보다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 보살피다/돌보다
     - 영어 동의어: care, protect
     - 한국어 동의어: 돌보다
 - l[[anchor, id=indexl]][[/anchor]]
   - [[giant]]lebna[[/giant]][[anchor, id=lebna]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 빼앗다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](원소유자)에게서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 빼앗다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](원소유자)에게서
     - 영어 동의어: take, get, obtain, gain, seize
     - 한국어 동의어: 빼앗다
+    - 용례: [0](14_00_접속사.html#444fb2), [1](14_00_접속사.html#83527f)
   - [[giant]]lenku[[/giant]][[anchor, id=lenku]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 차갑다, [[highlight=green]]x2[[/highlight]]의 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 차갑다, [[highlight=green]]x2[[/highlight]]의 기준에서
     - 영어 동의어: cold, cool
     - 한국어 동의어: 차가움
   - [[giant]]lifri[[/giant]][[anchor, id=lifri]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 경험하다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 경험하다
     - 영어 동의어: experience, live
     - 한국어 동의어: 경험하다
   - [[giant]]limna[[/giant]][[anchor, id=limna]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]가 [[highlight=green]]x2[[/highlight]](물)에서 수영한다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]가 [[highlight=green]]x2[[/highlight]](물)에서 수영한다
     - 영어 동의어: swim
     - 한국어 동의어: 수영
-    - 용례: [11.0](11_00_nu.html)
+    - 용례: [0](11_00_nu.html#000910), [1](11_00_nu.html#e489ea), [2](11_00_nu.html#f97ae0)
   - [[giant]]lumci[[/giant]][[anchor, id=lumci]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 씻는다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](오염물)가 묻은, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](물/세제/비누)로
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 씻는다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](오염물)가 묻은, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](물/세제/비누)로
     - 영어 동의어: wash, clean
     - 한국어 동의어: 씻다
-    - 용례: [7.8](07_08_vo'a.html)
+    - 용례: [0](07_08_vo'a.html#be7eac), [1](07_08_vo'a.html#8ac57c)
 - m[[anchor, id=indexm]][[/anchor]]
   - [[giant]]mamta[[/giant]][[anchor, id=mamta]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 엄마다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 엄마다
     - 영어 동의어: mom, mother
     - 한국어 동의어: 엄마
-    - 용례: [5.0](05_00_brivla.html)
+    - 용례: [0](05_00_brivla.html#b7523f)
   - [[giant]]manku[[/giant]][[anchor, id=manku]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 어둡다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 어둡다
     - 영어 동의어: dark
     - 한국어 동의어: 어둡다
   - [[giant]]melbi[[/giant]][[anchor, id=melbi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]가 보기에 아름답다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]가 보기에 아름답다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 기준에서
     - 영어 동의어: beauty, beautiful, pretty
     - 한국어 동의어: 아름답다
-    - 용례: [5.2](05_02_bo.html), [5.3](05_03_ke.html), [5.4](05_04_je_ja.html)
+    - 용례: [0](15_01_selbri_부정.html#fd2d39), [1](15_01_selbri_부정.html#def212), [2](05_02_bo.html#25c191), [3](05_02_bo.html#a90f9c), [4](05_04_je_ja.html#e2a8b4), [5](05_03_ke.html#b52423), [6](15_01_selbri_부정.html#ead60e)
   - [[giant]]merko[[/giant]][[anchor, id=merko]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 미국과 관련됐다, [[highlight=green]]x2[[/highlight]]의 측면에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 미국과 관련됐다, [[highlight=green]]x2[[/highlight]]의 측면에서
     - 영어 동의어: america, usa, states
     - 한국어 동의어: 미국
-    - 용례: [5.5](05_05_be_bei.html)
+    - 용례: [0](05_05_be_bei.html#2fc154)
   - [[giant]]mintu[[/giant]][[anchor, id=mintu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]과 [[highlight=green]]x2[[/highlight]]는 동일하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]과 [[highlight=green]]x2[[/highlight]]는 동일하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 기준에서
     - 영어 동의어: same, identical
     - 한국어 동의어: 동일하다
   - [[giant]]morsi[[/giant]][[anchor, id=morsi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 죽다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 죽다
     - 영어 동의어: die, dead, death
     - 한국어 동의어: 죽다
   - [[giant]]mulno[[/giant]][[anchor, id=mulno]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 끝나다/[[highlight=red]]x1[[/highlight]]의 [[highlight=green]]x2[[/highlight]](성질)은 완전하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 끝나다/[[highlight=red]]x1[[/highlight]]의 [[highlight=green]]x2[[/highlight]](성질)은 완전하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 기준에서
     - 영어 동의어: end, finish, complete, done, whole
     - 한국어 동의어: 끝
   - [[giant]]mutce[[/giant]][[anchor, id=mutce]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 아주 [[highlight=green]]x2[[/highlight]](성질)하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]한 방향으로
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 아주 [[highlight=green]]x2[[/highlight]](성질)하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]한 방향으로
     - 영어 동의어: very, much, extreme
     - 한국어 동의어: 매우
-    - 용례: [5.2](05_02_bo.html)
+    - 용례: [0](05_02_bo.html#f1bcb0)
   - [[giant]]muvdu[[/giant]][[anchor, id=muvdu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 향해 움직이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](출발지)에서, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](경로)를 통해
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 향해 움직이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](출발지)에서, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](경로)를 통해
     - 영어 동의어: move
     - 한국어 동의어: 이동하다
 - n[[anchor, id=indexn]][[/anchor]]
   - [[giant]]nabmi[[/giant]][[anchor, id=nabmi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](당사자)에게 문제다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 상황에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](당사자)에게 문제다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 상황에서
     - 영어 동의어: problem
     - 한국어 동의어: 문제
   - [[giant]]nakni[[/giant]][[anchor, id=nakni]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]라는 종의 수컷이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 특징으로 보았을 때
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]라는 종의 수컷이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 특징으로 보았을 때
     - 영어 동의어: male, man, he
     - 한국어 동의어: 수컷
   - [[giant]]nanba[[/giant]][[anchor, id=nanba]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](곡물)로 만든 빵이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](곡물)로 만든 빵이다
     - 영어 동의어: bread
     - 한국어 동의어: 빵
-    - 용례: [18.1](18_01_수량.html)
+    - 용례: [0](18_01_수량.html#943d63), [1](18_01_수량.html#4c8042), [2](18_01_수량.html#3ad3b3), [3](18_01_수량.html#7abac1), [4](18_01_수량.html#f4c4e4)
   - [[giant]]nandu[[/giant]][[anchor, id=nandu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](어려움을 느끼는 주체)에게 어렵다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 조건에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](어려움을 느끼는 주체)에게 어렵다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 조건에서
     - 영어 동의어: difficult, hard
     - 한국어 동의어: 어렵다
   - [[giant]]nanla[[/giant]][[anchor, id=nanla]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](나이)의 소년이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](나이)의 소년이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 기준에서
     - 영어 동의어: boy
     - 한국어 동의어: 소년
   - [[giant]]nanmu[[/giant]][[anchor, id=nanmu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 (인간)남성이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 (인간)남성이다
     - 영어 동의어: man, male
     - 한국어 동의어: 남성
+    - 용례: [0](14_00_접속사.html#cb1bc2), [1](14_00_접속사.html#8ca74a), [2](09_03_fi'o.html#52eba4), [3](14_00_접속사.html#29a61b), [4](14_00_접속사.html#0b2f55), [5](14_00_접속사.html#e7ecc1)
   - [[giant]]nelci[[/giant]][[anchor, id=nelci]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 좋아한다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 좋아한다
     - 영어 동의어: like, favor
     - 한국어 동의어: 좋아하다
-    - 용례: [11.0](11_00_nu.html), [11.2](11_02_성질_추상화.html)
+    - 용례: [0](11_00_nu.html#000910), [1](11_02_성질_추상화.html#42d3bf), [2](11_02_성질_추상화.html#2abc31), [3](11_00_nu.html#e489ea), [4](11_00_nu.html#f97ae0)
   - [[giant]]nenri[[/giant]][[anchor, id=nenri]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 내부에 있다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 내부에 있다
     - 영어 동의어: in, inside
     - 한국어 동의어: 내부
-    - 용례: [10.1](10_01_공간.html)
   - [[giant]]ninmu[[/giant]][[anchor, id=ninmu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 (인간)여성이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 (인간)여성이다
     - 영어 동의어: woman, female
     - 한국어 동의어: 여성
-    - 용례: [7.4](07_04_변수.html)
+    - 용례: [0](14_00_접속사.html#0b2f55), [1](07_04_변수.html#8ce86e)
   - [[giant]]nitcu[[/giant]][[anchor, id=nitcu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 필요로 하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]를 위해서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 필요로 하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]를 위해서
     - 영어 동의어: need, require
     - 한국어 동의어: 필요
   - [[giant]]nixli[[/giant]][[anchor, id=nixli]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](나이)의 소녀다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](나이)의 소녀다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 기준에서
     - 영어 동의어: girl
     - 한국어 동의어: 소녀
-    - 용례: [5.1](05_01_tanru.html), [5.2](05_02_bo.html), [5.3](05_03_ke.html)
+    - 용례: [0](05_02_bo.html#25c191), [1](05_02_bo.html#a90f9c), [2](05_02_bo.html#32911b), [3](05_05_be_bei.html#2fc154), [4](05_01_tanru.html#4b3e86), [5](05_03_ke.html#b52423)
 - p[[anchor, id=indexp]][[/anchor]]
   - [[giant]]pagbu[[/giant]][[anchor, id=pagbu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](전체)의 조각/일부분이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](전체)의 조각/일부분이다
     - 영어 동의어: part, piece, component, portion, segment
     - 한국어 동의어: 부분
   - [[giant]]palci[[/giant]][[anchor, id=palci]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]는 [[highlight=green]]x2[[/highlight]]란 기준에서 사악하다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]는 [[highlight=green]]x2[[/highlight]]란 기준에서 사악하다
     - 영어 동의어: evil, wicked, bad
     - 한국어 동의어: 악
   - [[giant]]patfu[[/giant]][[anchor, id=patfu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 아빠다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 아빠다
     - 영어 동의어: dad, father
     - 한국어 동의어: 아빠
   - [[giant]]pemci[[/giant]][[anchor, id=pemci]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]와 관련된 시(poet)다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](작가)가 [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](독자)를 위해 쓴
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]와 관련된 시(poet)다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](작가)가 [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](독자)를 위해 쓴
     - 영어 동의어: poet
     - 한국어 동의어: 시
-    - 용례: [5.5](05_05_be_bei.html)
+    - 용례: [0](05_05_be_bei.html#2fc154)
   - [[giant]]pendo[[/giant]][[anchor, id=pendo]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 친구다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 친구다
     - 영어 동의어: friend
     - 한국어 동의어: 친구
-    - 용례: [8.1](08_01_pe.html)
+    - 용례: [0](08_01_pe.html#d9eab6)
   - [[giant]]penmi[[/giant]][[anchor, id=penmi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에서 [[highlight=green]]x2[[/highlight]]를 만나다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에서 [[highlight=green]]x2[[/highlight]]를 만나다
     - 영어 동의어: meet, encounter, see
     - 한국어 동의어: 만나다
   - [[giant]]pensi[[/giant]][[anchor, id=pensi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 생각하다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 생각하다
     - 영어 동의어: think, consider
     - 한국어 동의어: 생각하다
   - [[giant]]pilno[[/giant]][[anchor, id=pilno]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](도구)를 사용하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]를 목적으로
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](도구)를 사용하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]를 목적으로
     - 영어 동의어: use, employ, tool
     - 한국어 동의어: 사용하다
-    - 용례: [9.3](09_03_fi'o.html)
+    - 용례: [0](09_03_fi'o.html#b7948f)
   - [[giant]]pinxe[[/giant]][[anchor, id=pinxe]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에서 [[highlight=green]]x2[[/highlight]]를 마신다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에서 [[highlight=green]]x2[[/highlight]]를 마신다
     - 영어 동의어: drink
     - 한국어 동의어: 마시다
   - [[giant]]pipno[[/giant]][[anchor, id=pipno]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 피아노다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 피아노다
     - 영어 동의어: piano
     - 한국어 동의어: 피아노
-    - 용례: [6.1](06_01_lei.html)
+    - 용례: [0](06_01_lei.html#7a2bdd), [1](06_01_lei.html#48f506)
   - [[giant]]pixra[[/giant]][[anchor, id=pixra]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](대상)를 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](화가)가 [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](매체)에 그린 그림이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](대상)를 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](화가)가 [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](매체)에 그린 그림이다
     - 영어 동의어: picture, illustration
     - 한국어 동의어: 그림
-    - 용례: [11.2](11_02_성질_추상화.html), [11.3](11_03_정도_추상화.html)
+    - 용례: [0](11_03_정도_추상화.html#01bcb3), [1](11_02_성질_추상화.html#42d3bf), [2](11_03_정도_추상화.html#6d531a), [3](11_02_성질_추상화.html#2abc31)
   - [[giant]]plipe[[/giant]][[anchor, id=plipe]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 뛴다(jump), [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](출발지)에서 [[highlight=green]]x2[[/highlight]](목적지)로, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]]의 높이로, [[highlight=violet]]x5[[/highlight]](동력)를 이용해서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 뛴다(jump), [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](출발지)에서 [[highlight=green]]x2[[/highlight]](목적지)로, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]]의 높이로, [[highlight=violet]]x5[[/highlight]](동력)를 이용해서
     - 영어 동의어: jump, leap
     - 한국어 동의어: 뜀(jump)
-    - 용례: [11.1](11_01_사건_추상화.html)
+    - 용례: [0](11_01_사건_추상화.html#ef0c7f)
   - [[giant]]pluja[[/giant]][[anchor, id=pluja]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]의 [[highlight=green]]x2[[/highlight]]란 성질은 복잡하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]의 [[highlight=green]]x2[[/highlight]]란 성질은 복잡하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 기준에서
     - 영어 동의어: complicated, complex
     - 한국어 동의어: 복잡하다
   - [[giant]]pluka[[/giant]][[anchor, id=pluka]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 행복하게 만들다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 조건 아래에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 행복하게 만들다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 조건 아래에서
     - 영어 동의어: happy, please, joy
     - 한국어 동의어: 행복
   - [[giant]]ponse[[/giant]][[anchor, id=ponse]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 가지다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](소유의 근거가 되는 관습/맥락/법) 아래에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 가지다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](소유의 근거가 되는 관습/맥락/법) 아래에서
     - 영어 동의어: possess, own, have
     - 한국어 동의어: 가지다
-    - 용례: [18.1](18_01_수량.html)
+    - 용례: [0](18_01_수량.html#42604c), [1](18_01_수량.html#ca222c), [2](18_01_수량.html#963971)
   - [[giant]]prami[[/giant]][[anchor, id=prami]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 사랑한다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 사랑한다
     - 영어 동의어: love
     - 한국어 동의어: 사랑하다
-    - 용례: [7.1](07_01_ko.html), [7.3](07_03_bridi_cmavo.html), [11.2](11_02_성질_추상화.html)
+    - 용례: [0](07_03_bridi_cmavo.html#10e1c2), [1](07_01_ko.html#60f7e6), [2](11_02_성질_추상화.html#cdbaef), [3](11_02_성질_추상화.html#d5c09a)
   - [[giant]]prenu[[/giant]][[anchor, id=prenu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 사람이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 사람이다
     - 영어 동의어: person
     - 한국어 동의어: 사람
-    - 용례: [5.1](05_01_tanru.html), [6.1](06_01_lei.html), [8.0](08_00_poi.html), [10.1](10_01_공간.html), [10.2](10_02_시간.html), [15.2](15_02_sumti_부정.html), [18.0](18_00_숫자.html), [18.1](18_01_수량.html)
+    - 용례: [0](10_02_시간.html#f6b20a), [1](06_01_lei.html#7a2bdd), [2](10_02_시간.html#45096f), [3](18_00_숫자.html#aab481), [4](05_01_tanru.html#478cc2), [5](10_01_공간.html#ea78f9), [6](10_02_시간.html#b456e8), [7](08_00_poi.html#6085c6), [8](10_02_시간.html#7af25f), [9](10_02_시간.html#43c2a1), [10](10_01_공간.html#065e0d), [11](10_01_공간.html#4e8c1e), [12](05_05_be_bei.html#2fc154), [13](10_01_공간.html#807a3f), [14](08_00_poi.html#c84c99), [15](18_01_수량.html#15188d), [16](18_01_수량.html#8a0be9), [17](10_01_공간.html#abfd41), [18](10_02_시간.html#9364bb), [19](18_01_수량.html#1242be), [20](10_02_시간.html#9edf53), [21](15_02_sumti_부정.html#5b489b), [22](10_01_공간.html#287c5c), [23](08_00_poi.html#2edd43), [24](10_02_시간.html#b7e938), [25](06_01_lei.html#48f506), [26](10_02_시간.html#8fcfeb), [27](05_01_tanru.html#904d0c)
   - [[giant]]pritu[[/giant]][[anchor, id=pritu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]보다 오른쪽에 있다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 좌표계에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]보다 오른쪽에 있다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 좌표계에서
     - 영어 동의어: right, righthand
     - 한국어 동의어: 오른쪽
-    - 용례: [10.1](10_01_공간.html)
   - [[giant]]purci[[/giant]][[anchor, id=purci]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]보다 먼저 발생하다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]보다 먼저 발생하다
     - 영어 동의어: former, earlier, before, prior
     - 한국어 동의어: 먼저
 - r[[anchor, id=indexr]][[/anchor]]
   - [[giant]]remna[[/giant]][[anchor, id=remna]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 인간이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 인간이다
     - 영어 동의어: human, person
     - 한국어 동의어: 인간
+  - [[giant]]rinka[[/giant]][[anchor, id=rinka]][[/anchor]]
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 물리적인 이유이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 조건에서
+    - 영어 동의어: reason, cause
+    - 한국어 동의어: 이유
   - [[giant]]rupnu[[/giant]][[anchor, id=rupnu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](양) 만큼의 돈이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](경제체제) 안에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](양) 만큼의 돈이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](경제체제) 안에서
     - 영어 동의어: money, monetary, dollar
     - 한국어 동의어: 돈
-    - 용례: [18.1](18_01_수량.html)
+    - 용례: [0](14_00_접속사.html#444fb2), [1](18_01_수량.html#963971), [2](18_01_수량.html#42604c), [3](14_00_접속사.html#83527f), [4](18_01_수량.html#ca222c)
 - s[[anchor, id=indexs]][[/anchor]]
   - [[giant]]salci[[/giant]][[anchor, id=salci]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 축하해주다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](행동/파티)를 통해서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 축하해주다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](행동/파티)를 통해서
     - 영어 동의어: celebrate, honor
     - 한국어 동의어: 축하
   - [[giant]]sanga[[/giant]][[anchor, id=sanga]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](노래)를 부르다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](청중)에게
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](노래)를 부르다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](청중)에게
     - 영어 동의어: sing, song, chant
     - 한국어 동의어: 노래
   - [[giant]]sipna[[/giant]][[anchor, id=sipna]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 잔다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 잔다
     - 영어 동의어: sleep, nap
     - 한국어 동의어: 잠
-    - 용례: [7.5](07_05_sumti_cmavo_2.html)
+    - 용례: [0](07_05_sumti_cmavo_2.html#a60de7)
   - [[giant]]sisku[[/giant]][[anchor, id=sisku]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 찾다/검색하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](집합)에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 찾다/검색하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](집합)에서
     - 영어 동의어: search, seek
     - 한국어 동의어: 검색
   - [[giant]]skapi[[/giant]][[anchor, id=skapi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 가죽/피부다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 가죽/피부다
     - 영어 동의어: skin, leather
     - 한국어 동의어: 피부
   - [[giant]]skari[[/giant]][[anchor, id=skari]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]의 색깔은 [[highlight=green]]x2[[/highlight]]이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](관측자)가 보기에, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]]의 조건 아래에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]의 색깔은 [[highlight=green]]x2[[/highlight]]이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](관측자)가 보기에, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]]의 조건 아래에서
     - 영어 동의어: color
     - 한국어 동의어: 색깔
-    - 용례: [15.1](15_01_selbri_부정.html)
+    - 용례: [0](15_01_selbri_부정.html#bbd980)
   - [[giant]]slabu[[/giant]][[anchor, id=slabu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](관측자)에게 익숙하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](익숙함을 주는 특징)가, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]]의 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](관측자)에게 익숙하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](익숙함을 주는 특징)가, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]]의 기준에서
     - 영어 동의어: old, familiar, well-nown
     - 한국어 동의어: 익숙
+  - [[giant]]snanu[[/giant]][[anchor, id=snanu]][[/anchor]]
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 남쪽이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 좌표계에서
+    - 영어 동의어: south
+    - 한국어 동의어: 남(south)
   - [[giant]]snime[[/giant]][[anchor, id=snime]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 눈(snow)이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 눈(snow)이다
     - 영어 동의어: snow
     - 한국어 동의어: 눈(snow)
   - [[giant]]snura[[/giant]][[anchor, id=snura]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](위협)로부터 안전하다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](위협)로부터 안전하다
     - 영어 동의어: safe, secure
     - 한국어 동의어: 안전
   - [[giant]]solji[[/giant]][[anchor, id=solji]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 금(gold)이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 금(gold)이다
     - 영어 동의어: gold
     - 한국어 동의어: 금
   - [[giant]]sonci[[/giant]][[anchor, id=sonci]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](군대)에 소속된 군인이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](군대)에 소속된 군인이다
     - 영어 동의어: army, soldier, troop, military
     - 한국어 동의어: 군인
-    - 용례: [11.0](11_00_nu.html)
+    - 용례: [0](11_00_nu.html#50bc4b), [1](11_00_nu.html#20b5b4), [2](11_00_nu.html#e40533), [3](11_00_nu.html#84b964)
   - [[giant]]spati[[/giant]][[anchor, id=spati]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]] 종의 식물이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]] 종의 식물이다
     - 영어 동의어: plant, herb
     - 한국어 동의어: 식물
-    - 용례: [9.3](09_03_fi'o.html)
+    - 용례: [0](09_03_fi'o.html#1db8da)
   - [[giant]]spofu[[/giant]][[anchor, id=spofu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]의 [[highlight=green]]x2[[/highlight]](기능)가 고장났다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]의 [[highlight=green]]x2[[/highlight]](기능)가 고장났다
     - 영어 동의어: broken, inoperable
     - 한국어 동의어: 고장
-    - 용례: [8.1](08_01_pe.html)
+    - 용례: [0](08_01_pe.html#6bd0af), [1](08_01_pe.html#1f4684)
   - [[giant]]srana[[/giant]][[anchor, id=srana]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]와 관련돼 있다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]와 관련돼 있다
     - 영어 동의어: associate, relate
     - 한국어 동의어: 관련되다
   - [[giant]]stali[[/giant]][[anchor, id=stali]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]] 곁에 머물다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]] 곁에 머물다
     - 영어 동의어: stay
     - 한국어 동의어: 곁에 머물다
+  - [[giant]]stici[[/giant]][[anchor, id=stici]][[/anchor]]
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 서쪽이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 좌표계에서
+    - 영어 동의어: west
+    - 한국어 동의어: 서(west)
   - [[giant]]stidi[[/giant]][[anchor, id=stidi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](아이디어)를 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에게 제안하다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](아이디어)를 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에게 제안하다
     - 영어 동의어: suggest
     - 한국어 동의어: 제안
   - [[giant]]stizu[[/giant]][[anchor, id=stizu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 의자다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 의자다
     - 영어 동의어: chair, seat, bench, stool
     - 한국어 동의어: 의자
-    - 용례: [8.1](08_01_pe.html), [15.1](15_01_selbri_부정.html)
+    - 용례: [0](08_01_pe.html#5eb4a4), [1](15_01_selbri_부정.html#bbd980), [2](15_01_selbri_부정.html#84f362), [3](15_01_selbri_부정.html#a12217), [4](08_02_zi'e.html#24d979)
+  - [[giant]]stuna[[/giant]][[anchor, id=stuna]][[/anchor]]
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]의 동쪽이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 좌표계에서
+    - 영어 동의어: east
+    - 한국어 동의어: 동(east)
   - [[giant]]sutra[[/giant]][[anchor, id=sutra]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]를 빠르게 한다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]를 빠르게 한다
     - 영어 동의어: fast, quick
     - 한국어 동의어: 빠르다
-    - 용례: [5.1](05_01_tanru.html), [5.5](05_05_be_bei.html), [6.0](06_00_le.html)
+    - 용례: [0](05_01_tanru.html#474ee2), [1](06_00_le.html#61d38b)
 - t[[anchor, id=indext]][[/anchor]]
   - [[giant]]tadni[[/giant]][[anchor, id=tadni]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]](학생)이 [[highlight=green]]x2[[/highlight]](과목)를 공부하다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]](학생)이 [[highlight=green]]x2[[/highlight]](과목)를 공부하다
     - 영어 동의어: student, study
     - 한국어 동의어: 공부
+  - [[giant]]tanke[[/giant]][[anchor, id=tanke]][[/anchor]]
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 상자이다, [[highlight=green]]x2[[/highlight]](담을 물건)를 위한, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](재질)로 만든
+    - 영어 동의어: box, trunk, crate
+    - 한국어 동의어: 상자
   - [[giant]]tatpi[[/giant]][[anchor, id=tatpi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](사건/상황) 때문에 피곤하다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](사건/상황) 때문에 피곤하다
     - 영어 동의어: exhausted, tired
     - 한국어 동의어: 피곤하다
-    - 용례: [11.1](11_01_사건_추상화.html)
+    - 용례: [0](11_01_사건_추상화.html#ef0c7f)
   - [[giant]]tavla[[/giant]][[anchor, id=tavla]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]에게 [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](언어)로 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](주제)에 대해서 말하다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]에게 [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](언어)로 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](주제)에 대해서 말하다
     - 영어 동의어: talk, speak, tell
     - 한국어 동의어: 말하다
-    - 용례: [13.1](13_01_xu.html)
+    - 용례: [0](13_01_xu.html#334ae2)
   - [[giant]]taxfu[[/giant]][[anchor, id=taxfu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]가 입는 옷이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]를 위해서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]가 입는 옷이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]를 위해서
     - 영어 동의어: wear, dress, clothes
     - 한국어 동의어: 옷
+  - [[giant]]tcadu[[/giant]][[anchor, id=tcadu]][[/anchor]]
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 도시다, [[highlight=green]]x2[[/highlight]] 광역권의
+    - 영어 동의어: town, city, urban
+    - 한국어 동의어: 도시
+    - 용례: [0](09_03_fi'o.html#52eba4)
   - [[giant]]tirna[[/giant]][[anchor, id=tirna]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](소리)를 듣다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](소음/배경) 속에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](소리)를 듣다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](소음/배경) 속에서
     - 영어 동의어: hear, listen
     - 한국어 동의어: 듣다
   - [[giant]]trina[[/giant]][[anchor, id=trina]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 유혹하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]를 이용해서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 유혹하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]를 이용해서
     - 영어 동의어: seduce, lure
     - 한국어 동의어: 유혹하다
   - [[giant]]trixe[[/giant]][[anchor, id=trixe]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]보다 뒤쪽에 있다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 좌표계에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]보다 뒤쪽에 있다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 좌표계에서
     - 영어 동의어: behind, back, rear
     - 한국어 동의어: 뒤쪽
   - [[giant]]troci[[/giant]][[anchor, id=troci]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](상태/동작/성질)를 위해 노력하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 방법으로
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](상태/동작/성질)를 위해 노력하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 방법으로
     - 영어 동의어: try, attempt, effort
     - 한국어 동의어: 노력하다
 - v[[anchor, id=indexv]][[/anchor]]
   - [[giant]]valsi[[/giant]][[anchor, id=valsi]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]란 뜻을 가진 단어다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 언어의
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]란 뜻을 가진 단어다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 언어의
     - 영어 동의어: mean, word, clause
     - 한국어 동의어: 단어
   - [[giant]]vecnu[[/giant]][[anchor, id=vecnu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에게 [[highlight=green]]x2[[/highlight]](상품)를 팔다, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](가격)에
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]에게 [[highlight=green]]x2[[/highlight]](상품)를 팔다, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](가격)에
     - 영어 동의어: sell, sale
     - 한국어 동의어: 팔다
   - [[giant]]verba[[/giant]][[anchor, id=verba]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](나이)살의 아이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 기준에서 미성숙한
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](나이)살의 아이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 기준에서 미성숙한
     - 영어 동의어: kid, child, juvenile
     - 한국어 동의어: 아이
-    - 용례: [10.3](10_03_시공간_범위.html)
+    - 용례: [0](10_03_시공간_범위.html#51f5fa), [1](10_03_시공간_범위.html#7a94ba), [2](10_03_시공간_범위.html#7239e0)
   - [[giant]]virnu[[/giant]][[anchor, id=virnu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 용감하게 [[highlight=green]]x2[[/highlight]]를 한다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 용감하게 [[highlight=green]]x2[[/highlight]]를 한다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 기준에서
     - 영어 동의어: brave, courage
     - 한국어 동의어: 용감하다
   - [[giant]]viska[[/giant]][[anchor, id=viska]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 보다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 조건에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 보다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]의 조건에서
     - 영어 동의어: see, observe, view
     - 한국어 동의어: 보다
-    - 용례: [7.1](07_01_ko.html), [7.4](07_04_변수.html), [9.3](09_03_fi'o.html)
+    - 용례: [0](09_03_fi'o.html#f0c02c), [1](07_01_ko.html#5e240a), [2](09_03_fi'o.html#b7948f), [3](07_04_변수.html#e6b035)
   - [[giant]]vitke[[/giant]][[anchor, id=vitke]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 방문하다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 방문하다
     - 영어 동의어: visit, guest
     - 한국어 동의어: 방문
   - [[giant]]vitno[[/giant]][[anchor, id=vitno]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 영원하다, [[highlight=green]]x2[[/highlight]]란 성질이, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 영원하다, [[highlight=green]]x2[[/highlight]]란 성질이, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 기준에서
     - 영어 동의어: permanent, eternal, forever
     - 한국어 동의어: 영원하다
 - x[[anchor, id=indexx]][[/anchor]]
   - [[giant]]xabju[[/giant]][[anchor, id=xabju]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]에 살다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]에 살다
     - 영어 동의어: live, habitat, dwell, reside
     - 한국어 동의어: 살다
-    - 용례: [6.1](06_01_lei.html), [6.2](06_02_le'i.html)
+    - 용례: [0](06_01_lei.html#2eb3db), [1](06_02_le'i.html#9a573b)
   - [[giant]]xamgu[[/giant]][[anchor, id=xamgu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]하기에 좋다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]하기에 좋다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 기준에서
     - 영어 동의어: good, nice, beneficial, acceptable
     - 한국어 동의어: 좋음(good)
-    - 용례: [5.5](05_05_be_bei.html)
+    - 용례: [0](05_05_be_bei.html#073079)
   - [[giant]]xebni[[/giant]][[anchor, id=xebni]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 싫어한다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 싫어한다
     - 영어 동의어: hate, despise, abhor
     - 한국어 동의어: 싫어하다
   - [[giant]]xendo[[/giant]][[anchor, id=xendo]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](상대방)에게 착하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](착한 행동)를 통해
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]](상대방)에게 착하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](착한 행동)를 통해
     - 영어 동의어: kind, nice
     - 한국어 동의어: 착하다
   - [[giant]]xlali[[/giant]][[anchor, id=xlali]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]하기에 안 좋다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 기준에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]하기에 안 좋다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]란 기준에서
     - 영어 동의어: bad, poor, unacceptable
     - 한국어 동의어: 나쁘다
   - [[giant]]xunre[[/giant]][[anchor, id=xunre]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 빨갛다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 빨갛다
     - 영어 동의어: red
     - 한국어 동의어: 빨강
-    - 용례: [5.4](05_04_je_ja.html), [8.1](08_01_pe.html), [15.1](15_01_selbri_부정.html)
+    - 용례: [0](08_01_pe.html#5eb4a4), [1](15_01_selbri_부정.html#bbd980), [2](15_01_selbri_부정.html#84f362), [3](15_01_selbri_부정.html#a12217), [4](05_04_je_ja.html#a1e488), [5](05_04_je_ja.html#68b14e), [6](05_04_je_ja.html#f43aa0)
 - z[[anchor, id=indexz]][[/anchor]]
   - [[giant]]zarci[[/giant]][[anchor, id=zarci]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]를 파는 시장이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]가 운영하는
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]를 파는 시장이다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]]가 운영하는
     - 영어 동의어: market, sell, mart
     - 한국어 동의어: 시장
-    - 용례: [6.0](06_00_le.html), [7.4](07_04_변수.html), [7.8](07_08_vo'a.html), [7.9](07_09_의문문.html), [9.0](09_00_cu.html), [9.2](09_02_se.html), [9.3](09_03_fi'o.html), [10.0](10_00_시공간_표현.html), [10.3](10_03_시공간_범위.html), [15.0](15_00_bridi_부정.html), [15.1](15_01_selbri_부정.html), [15.3](15_03_cmavo_부정.html)
+    - 용례: [0](10_03_시공간_범위.html#17f381), [1](15_01_selbri_부정.html#15a808), [2](15_01_selbri_부정.html#8e8bbb), [3](10_00_시공간_표현.html#af4396), [4](07_04_변수.html#b6f8e1), [5](15_01_selbri_부정.html#695631), [6](09_00_cu.html#1f40f4), [7](09_00_cu.html#5c52a0), [8](10_03_시공간_범위.html#d621ca), [9](15_01_selbri_부정.html#14d1d1), [10](07_09_의문문.html#25e2eb), [11](15_03_cmavo_부정.html#048e28), [12](15_00_bridi_부정.html#3aef9c), [13](15_03_cmavo_부정.html#46e3d4), [14](06_00_le.html#0095ca), [15](06_00_le.html#61d38b), [16](07_04_변수.html#fc3d53), [17](07_08_vo'a.html#574963), [18](06_00_le.html#a6812f), [19](07_08_vo'a.html#3bf906), [20](09_03_fi'o.html#56bed2), [21](07_04_변수.html#8ce86e), [22](07_04_변수.html#6e2edd)
   - [[giant]]zdani[[/giant]][[anchor, id=zdani]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]가 사는(live) 집이다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]가 사는(live) 집이다
     - 영어 동의어: home, house
     - 한국어 동의어: 집
-    - 용례: [5.5](05_05_be_bei.html), [7.7](07_07_zo'e.html), [8.1](08_01_pe.html), [9.0](09_00_cu.html), [9.2](09_02_se.html)
+    - 용례: [0](09_00_cu.html#1f40f4), [1](07_07_zo'e.html#084c8c), [2](09_00_cu.html#5c52a0), [3](08_01_pe.html#63a16c), [4](05_05_be_bei.html#073079), [5](07_07_zo'e.html#aba892)
   - [[giant]]zekri[[/giant]][[anchor, id=zekri]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 범죄다, [[highlight=green]]x2[[/highlight]](사람/사회/판사)에게
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 범죄다, [[highlight=green]]x2[[/highlight]](사람/사회/판사)에게
     - 영어 동의어: crime, guilt, sin
     - 한국어 동의어: 범죄
-    - 용례: [11.1](11_01_사건_추상화.html), [11.3](11_03_정도_추상화.html)
+    - 용례: [0](11_01_사건_추상화.html#fd39f0), [1](11_03_정도_추상화.html#013502)
   - [[giant]]zenba[[/giant]][[anchor, id=zenba]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]가 [[highlight=green]]x2[[/highlight]](성질/수량)의 증가를 경험하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](증가한 양)만큼
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]가 [[highlight=green]]x2[[/highlight]](성질/수량)의 증가를 경험하다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](증가한 양)만큼
     - 영어 동의어: increase, increment
     - 한국어 동의어: 증가
   - [[giant]]zmadu[[/giant]][[anchor, id=zmadu]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 능가한다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](능가하는 성질)를, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](능가하는 양)만큼
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 능가한다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]](능가하는 성질)를, [[highlight=emerald]][[black]]x4[[/black]][[/highlight]](능가하는 양)만큼
     - 영어 동의어: overwhelm, superior, exceed
     - 한국어 동의어: 능가하다
-    - 용례: [11.2](11_02_성질_추상화.html)
+    - 용례: [0](11_02_성질_추상화.html#cdbaef), [1](11_02_성질_추상화.html#d5c09a)
   - [[giant]]zunle[[/giant]][[anchor, id=zunle]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]보다 왼쪽에 있다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 좌표계에서
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]은 [[highlight=green]]x2[[/highlight]]보다 왼쪽에 있다, [[highlight=aqua]][[black]]x3[[/black]][[/highlight]] 좌표계에서
     - 영어 동의어: left, lefthand
     - 한국어 동의어: 왼쪽
-    - 용례: [9.3](09_03_fi'o.html), [10.1](10_01_공간.html)
+    - 용례: [0](09_03_fi'o.html#f0c02c), [1](09_03_fi'o.html#b7948f)
   - [[giant]]zvati[[/giant]][[anchor, id=zvati]][[/anchor]]
-    - 뜻 풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](위치)에 있다
+    - 뜻풀이: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]](위치)에 있다
     - 영어 동의어: present, exist, attend
     - 한국어 동의어: 있다

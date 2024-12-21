@@ -681,6 +681,9 @@ body .markdown img, body .markdown video, body .markdown iframe {
 .markdown pre.fenced-code-block code {
   color: #ffffff;
 }
+.markdown pre.fenced-code-block code ::selection {
+  background-color: #bfbfbf;
+}
 .markdown pre.fenced-code-block code .color-black {
   color: #000000;
 }
@@ -906,6 +909,9 @@ body .markdown img, body .markdown video, body .markdown iframe {
 }
 .markdown table tr:nth-last-child(odd) code.inline-code-span {
   background-color: #808080;
+}
+.markdown table tr .tooltip-message code.inline-code-span {
+  background-color: #000000;
 }
 
 /* Table */

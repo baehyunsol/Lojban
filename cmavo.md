@@ -1,41 +1,29 @@
 
 # cmavo 목록
 
-해당 cmavo를 클릭하면 그 cmavo를 설명하는 챕터로 이동합니다. 이동한 다음에 Ctrl+F를 이용해서 다시 검색을 하시는게 편합니다.
+- 본 페이지에는 cmavo들이 사전순서로 정렬돼 있습니다.
+- cmavo의 링크를 클릭할 경우, 해당 cmavo가 등장하는 챕터로 이동합니다.
 
-[[giant]]알파벳 색인: [b](#indexb) [c](#indexc) [d](#indexd) [f](#indexf) [g](#indexg) [j](#indexj) [k](#indexk) [l](#indexl) [m](#indexm) [n](#indexn) [p](#indexp) [r](#indexr) [s](#indexs) [t](#indext) [v](#indexv) [x](#indexx) [z](#indexz)[[/giant]]
-
-- b[[anchor, id=indexb]][[/anchor]]
-  - [ba](10_02_시간.html) [be](05_05_be_bei.html) [be'o](05_05_be_bei.html) [bei](05_05_be_bei.html) [bi](18_00_숫자.html) [bo](05_02_bo.html) [broda](07_04_변수.html) [brode](07_04_변수.html) [brodi](07_04_변수.html) [brodo](07_04_변수.html) [brodu](07_04_변수.html)
-- c[[anchor, id=indexc]][[/anchor]]
-  - [ca](10_02_시간.html) [ca'u](10_01_공간.html) [ce'u](11_02_성질_추상화.html) [cei](07_04_변수.html) [ci](18_00_숫자.html) [co](05_06_co.html) [co'o](06_03_인삿말.html) [coi](06_03_인삿말.html) [cu](09_00_cu.html)
-- d[[anchor, id=indexd]][[/anchor]]
-  - [da'e](07_03_bridi_cmavo.html) [da'u](07_03_bridi_cmavo.html) [de'e](07_03_bridi_cmavo.html) [de'u](07_03_bridi_cmavo.html) [dei](07_03_bridi_cmavo.html) [di'e](07_03_bridi_cmavo.html) [di'i](10_03_시공간_범위.html) [di'u](07_03_bridi_cmavo.html) [do](07_00_sumti_cmavo.html) [do'i](07_03_bridi_cmavo.html) [do'o](07_00_sumti_cmavo.html) [du'e](18_01_수량.html) [du'u](11_04_문장_추상화.html)
-- f[[anchor, id=indexf]][[/anchor]]
-  - [fa](09_01_fa.html) [fa'a](10_01_공간.html) [fe](09_01_fa.html) [fi](09_01_fa.html) [fi'o](09_03_fi'o.html) [fi'u](18_00_숫자.html) [fo](09_01_fa.html) [fo'a](07_04_변수.html) [fo'e](07_04_변수.html) [fo'i](07_04_변수.html) [fo'o](07_04_변수.html) [fo'u](07_04_변수.html) [fu](09_01_fa.html)
-- g[[anchor, id=indexg]][[/anchor]]
-  - [ga'u](10_01_공간.html) [goi](07_04_변수.html)
-- j[[anchor, id=indexj]][[/anchor]]
-  - [ja](05_04_je_ja.html) [je](05_04_je_ja.html) [je'e](06_03_인삿말.html) [jei](11_03_정도_추상화.html)
-- k[[anchor, id=indexk]][[/anchor]]
-  - [ka](11_02_성질_추상화.html) [ka'a](09_03_fi'o.html) [ke](05_03_ke.html) [ke'a](08_00_poi.html) [ke'e](05_03_ke.html) [kei](11_00_nu.html) [ki'u](09_03_fi'o.html) [ko](07_01_ko.html) [ko'a](07_04_변수.html) [ko'e](07_04_변수.html) [ko'i](07_04_변수.html) [ko'o](07_04_변수.html) [ko'u](07_04_변수.html) [ku](06_00_le.html) [ku'o](08_00_poi.html)
-- l[[anchor, id=indexl]][[/anchor]]
-  - [la](06_00_le.html) [la'e](06_02_le'i.html) [la'i](06_02_le'i.html) [lai](06_01_lei.html) [le](06_00_le.html) [le'e](06_02_le'i.html) [le'i](06_02_le'i.html) [lei](06_01_lei.html) [lo](06_00_le.html) [lo'e](06_02_le'i.html) [lo'i](06_02_le'i.html) [loi](06_01_lei.html)
-- m[[anchor, id=indexm]][[/anchor]]
-  - [ma](07_09_의문문.html) [ma'a](07_00_sumti_cmavo.html) [mi](07_00_sumti_cmavo.html) [mi'a](07_00_sumti_cmavo.html) [mi'o](07_00_sumti_cmavo.html) [mo](07_09_의문문.html) [mo'a](18_01_수량.html) [mu](18_00_숫자.html) [mu'e](11_01_사건_추상화.html) [mu'i](09_03_fi'o.html)
-- n[[anchor, id=indexn]][[/anchor]]
-  - [na](15_00_bridi_부정.html) [na'e](15_01_selbri_부정.html) [na'ebo](15_02_sumti_부정.html) [na'o](10_03_시공간_범위.html) [nai](15_03_cmavo_부정.html) [ne](08_01_pe.html) [ne'i](10_01_공간.html) [ni](11_03_정도_추상화.html) [ni'a](10_01_공간.html) [ni'i](09_03_fi'o.html) [ni'u](18_00_숫자.html) [no](18_00_숫자.html) [no'e](15_01_selbri_부정.html) [no'ebo](15_02_sumti_부정.html) [no'u](08_01_pe.html) [noi](08_00_poi.html) [nu](11_00_nu.html)
-- p[[anchor, id=indexp]][[/anchor]]
-  - [pa](18_00_숫자.html) [pe](08_01_pe.html) [pi](18_00_숫자.html) [pi'o](09_03_fi'o.html) [pidu'e](18_01_수량.html) [pimo'a](18_01_수량.html) [pirau](18_01_수량.html) [piro](18_01_수량.html) [piso'a](18_01_수량.html) [piso'e](18_01_수량.html) [piso'i](18_01_수량.html) [piso'o](18_01_수량.html) [piso'u](18_01_수량.html) [po](08_01_pe.html) [po'e](08_01_pe.html) [po'u](08_01_pe.html) [poi](08_00_poi.html) [pu](10_02_시간.html) [pu'u](11_01_사건_추상화.html)
-- r[[anchor, id=indexr]][[/anchor]]
-  - [rau](18_01_수량.html) [re](18_00_숫자.html) [ri](07_05_sumti_cmavo_2.html) [ri'a](09_03_fi'o.html) [ri'u](10_01_공간.html) [ro](18_01_수량.html) [roi](10_03_시공간_범위.html) [ru'i](10_03_시공간_범위.html)
-- s[[anchor, id=indexs]][[/anchor]]
-  - [se](09_02_se.html) [so](18_00_숫자.html) [so'a](18_01_수량.html) [so'e](18_01_수량.html) [so'i](18_01_수량.html) [so'o](18_01_수량.html) [so'u](18_01_수량.html)
-- t[[anchor, id=indext]][[/anchor]]
-  - [ta](07_02_ti_ta_tu.html) [ta'e](10_03_시공간_범위.html) [te](09_02_se.html) [ti](07_02_ti_ta_tu.html) [to'e](15_01_selbri_부정.html) [to'ebo](15_02_sumti_부정.html) [tu](07_02_ti_ta_tu.html)
-- v[[anchor, id=indexv]][[/anchor]]
-  - [va](10_01_공간.html) [ve](09_02_se.html) [ve'a](10_03_시공간_범위.html) [ve'i](10_03_시공간_범위.html) [ve'u](10_03_시공간_범위.html) [vi](10_01_공간.html) [vo](18_00_숫자.html) [vo'a](07_08_vo'a.html) [vo'e](07_08_vo'a.html) [vo'i](07_08_vo'a.html) [vo'o](07_08_vo'a.html) [vo'u](07_08_vo'a.html) [vu](10_01_공간.html)
-- x[[anchor, id=indexx]][[/anchor]]
-  - [xa](18_00_숫자.html) [xe](09_02_se.html) [xu](13_01_xu.html)
-- z[[anchor, id=indexz]][[/anchor]]
-  - [za](10_02_시간.html) [za'i](11_01_사건_추상화.html) [ze](18_00_숫자.html) [ze'a](10_03_시공간_범위.html) [ze'i](10_03_시공간_범위.html) [ze'u](10_03_시공간_범위.html) [zi](10_02_시간.html) [zi'e](08_02_zi'e.html) [zo'e](07_07_zo'e.html) [zu](10_02_시간.html) [zu'a](10_01_공간.html) [zu'o](11_01_사건_추상화.html)
+- a[[anchor, id=indexa]][[/anchor]]: [.a](14_00_접속사.html#f3828f), [abu](03_00_문자.html#9b4bce)
+- b[[anchor, id=indexb]][[/anchor]]: [ba](10_02_시간.html#176587), [be](05_05_be_bei.html#1fe31c), [be'o](05_05_be_bei.html#1fe31c), [bei](05_05_be_bei.html#1fe31c), [bi](18_00_숫자.html#8af175), [bo](05_02_bo.html#9ecba9), [bridi](02_00_문법용어.html#c53edf), brivla ([0](02_00_문법용어.html#cf5386), [1](05_00_brivla.html#f40484)), [by](03_00_문자.html#9b4bce)
+- c[[anchor, id=indexc]][[/anchor]]: [ca](10_02_시간.html#176587), [ca'u](10_01_공간.html#b6dc95), [ce'u](11_02_성질_추상화.html#078a98), [ci](18_00_숫자.html#8af175), [cmavo](02_00_문법용어.html#f8cb83), [co](05_06_co.html#cc3299), [co'o](06_03_인삿말.html#680a12), [coi](06_03_인삿말.html#3fe730), [cu](09_00_cu.html#9a24bc), [cy](03_00_문자.html#9b4bce)
+- d[[anchor, id=indexd]][[/anchor]]: [da'e](07_03_bridi_cmavo.html#13c8d3), [da'u](07_03_bridi_cmavo.html#2dfd75), [de'e](07_03_bridi_cmavo.html#4c91dc), [de'u](07_03_bridi_cmavo.html#235f24), [dei](07_03_bridi_cmavo.html#29164e), [di'e](07_03_bridi_cmavo.html#42acc7), [di'i](10_03_시공간_범위.html#e571fe), [di'u](07_03_bridi_cmavo.html#f3fbde), [do](07_00_sumti_cmavo.html#e3d59a), [do'e](09_03_fi'o.html#5100b8), [do'i](07_03_bridi_cmavo.html#c857f4), [do'o](07_00_sumti_cmavo.html#7bf578), [du'e](18_01_수량.html#b8c8c0), [du'u](11_04_문장_추상화.html#65a3f0), [dy](03_00_문자.html#9b4bce)
+- e[[anchor, id=indexe]][[/anchor]]: [ebu](03_00_문자.html#9b4bce)
+- f[[anchor, id=indexf]][[/anchor]]: [fa](09_01_fa.html#ef2bd3), [fa'a](10_01_공간.html#805a17), [fe](09_01_fa.html#ef2bd3), [fi](09_01_fa.html#ef2bd3), [fi'o](09_03_fi'o.html#85302f), [fi'u](18_00_숫자.html#2ffa6e), [fo](09_01_fa.html#ef2bd3), [fo'a](07_04_변수.html#7893ae), [fo'e](07_04_변수.html#7893ae), [fo'i](07_04_변수.html#7893ae), [fo'o](07_04_변수.html#7893ae), [fo'u](07_04_변수.html#7893ae), [fu](09_01_fa.html#ef2bd3), [fy](03_00_문자.html#9b4bce)
+- g[[anchor, id=indexg]][[/anchor]]: [ga](14_00_접속사.html#f3828f), [ga'u](10_01_공간.html#d1df1e), [gi](14_00_접속사.html#f3828f), [gi'a](14_00_접속사.html#f3828f), [gismu](02_00_문법용어.html#d75528), [go'i](07_06_bridi_cmavo_2.html#3b0f1f), [gy](03_00_문자.html#9b4bce)
+- i[[anchor, id=indexi]][[/anchor]]: [.i](07_03_bridi_cmavo.html#852616), [ibu](03_00_문자.html#9b4bce), [.ija](14_00_접속사.html#f3828f)
+- j[[anchor, id=indexj]][[/anchor]]: ja ([0](14_00_접속사.html#f3828f), [1](05_04_je_ja.html#855f3f)), [je](05_04_je_ja.html#de4bc5), [je'e](06_03_인삿말.html#aa5e46), [jei](11_03_정도_추상화.html#075130), [jy](03_00_문자.html#9b4bce)
+- k[[anchor, id=indexk]][[/anchor]]: [ka](11_02_성질_추상화.html#6041b4), [ke](05_03_ke.html#338f1b), [ke'a](08_00_poi.html#0dab33), [ke'e](05_03_ke.html#338f1b), [ko](07_01_ko.html#94a611), [ko'a](07_04_변수.html#7893ae), [ko'e](07_04_변수.html#7893ae), [ko'i](07_04_변수.html#7893ae), [ko'o](07_04_변수.html#7893ae), [ko'u](07_04_변수.html#7893ae), [ku](06_00_le.html#203f79), [ku'o](08_00_poi.html#0dab33), [ky](03_00_문자.html#9b4bce)
+- l[[anchor, id=indexl]][[/anchor]]: [la](06_00_le.html#7ce1e2), [le](06_00_le.html#fcb63c), [le'e](06_02_le'i.html#9509d6), [le'i](06_02_le'i.html#293031), [lei](06_01_lei.html#71832c), [lo](06_00_le.html#aa90b0), [lo'e](06_02_le'i.html#37d66e), [lo'i](06_02_le'i.html#293031), [loi](06_01_lei.html#e55c44), [lujvo](02_00_문법용어.html#14ba5e), [ly](03_00_문자.html#9b4bce)
+- m[[anchor, id=indexm]][[/anchor]]: [ma](07_09_의문문.html#aa422d), [ma'a](07_00_sumti_cmavo.html#a253f6), [mi](07_00_sumti_cmavo.html#9347d0), [mi'a](07_00_sumti_cmavo.html#c511c3), [mi'o](07_00_sumti_cmavo.html#2eea66), [mo](07_09_의문문.html#4aef7f), [mo'a](18_01_수량.html#b8c8c0), [mu](18_00_숫자.html#8af175), [mu'e](11_01_사건_추상화.html#13ec09), [my](03_00_문자.html#9b4bce)
+- n[[anchor, id=indexn]][[/anchor]]: [na](15_00_bridi_부정.html#b1b0ee), [na'e](15_01_selbri_부정.html#098293), [na'ebo](15_02_sumti_부정.html#6a6a8a), [na'o](10_03_시공간_범위.html#c1de28), [nai](15_03_cmavo_부정.html#95029a), [ne](08_01_pe.html#33f7d6), [ne'i](10_01_공간.html#c6fc1d), [ni](11_03_정도_추상화.html#a1e1f8), [ni'a](10_01_공간.html#9f75d9), [ni'u](18_00_숫자.html#acce40), no ([0](18_00_숫자.html#8af175), [1](15_02_sumti_부정.html#beb1ab)), [no'e](15_01_selbri_부정.html#15819e), [no'ebo](15_02_sumti_부정.html#6a6a8a), [no'u](08_01_pe.html#851438), [noi](08_00_poi.html#bd82fb), [nu](11_00_nu.html#54d359), [ny](03_00_문자.html#9b4bce)
+- o[[anchor, id=indexo]][[/anchor]]: [obu](03_00_문자.html#9b4bce)
+- p[[anchor, id=indexp]][[/anchor]]: [pa](18_00_숫자.html#8af175), [pe](08_01_pe.html#0b13f0), [pi](18_00_숫자.html#bc01d4), [pidu'e](18_01_수량.html#b8c8c0), [pimo'a](18_01_수량.html#b8c8c0), [pirau](18_01_수량.html#b8c8c0), [piro](18_01_수량.html#53e587), [piso'a](18_01_수량.html#53e587), [piso'e](18_01_수량.html#53e587), [piso'i](18_01_수량.html#53e587), [piso'o](18_01_수량.html#53e587), [piso'u](18_01_수량.html#53e587), [po](08_01_pe.html#3f6f2f), [po'e](08_01_pe.html#f55e1d), [po'u](08_01_pe.html#0baa28), [poi](08_00_poi.html#0dab33), [pu](10_02_시간.html#176587), [pu'u](11_01_사건_추상화.html#a6e21e), [py](03_00_문자.html#9b4bce)
+- r[[anchor, id=indexr]][[/anchor]]: [rafsi](02_00_문법용어.html#8490bc), [rau](18_01_수량.html#b8c8c0), [re](18_00_숫자.html#8af175), [ri](07_05_sumti_cmavo_2.html#2a2cca), [ri'u](10_01_공간.html#f178e2), [ro](18_01_수량.html#ad2fe2), [roi](10_03_시공간_범위.html#cdf5f3), [ru'i](10_03_시공간_범위.html#d42d13), [ry](03_00_문자.html#9b4bce)
+- s[[anchor, id=indexs]][[/anchor]]: [se](09_02_se.html#6611f6), [selbri](02_00_문법용어.html#c53edf), [seltau](05_01_tanru.html#308da8), [so](18_00_숫자.html#8af175), [so'a](18_01_수량.html#ad2fe2), [so'e](18_01_수량.html#ad2fe2), [so'i](18_01_수량.html#ad2fe2), [so'o](18_01_수량.html#ad2fe2), [so'u](18_01_수량.html#ad2fe2), [sumti](02_00_문법용어.html#c53edf), [sy](03_00_문자.html#9b4bce)
+- t[[anchor, id=indext]][[/anchor]]: [ta](07_02_ti_ta_tu.html#5f9b03), [ta'e](10_03_시공간_범위.html#1026ba), [tanru](05_01_tanru.html#6fd7b9), [te](09_02_se.html#6611f6), [tertau](05_01_tanru.html#308da8), [ti](07_02_ti_ta_tu.html#5f9b03), [to'e](15_01_selbri_부정.html#15819e), [to'ebo](15_02_sumti_부정.html#6a6a8a), [tu](07_02_ti_ta_tu.html#5f9b03), [ty](03_00_문자.html#9b4bce)
+- u[[anchor, id=indexu]][[/anchor]]: [ubu](03_00_문자.html#9b4bce)
+- v[[anchor, id=indexv]][[/anchor]]: [va](10_01_공간.html#e276fc), [vau](14_00_접속사.html#f3828f), [ve](09_02_se.html#6611f6), [ve'a](10_03_시공간_범위.html#627665), [ve'i](10_03_시공간_범위.html#00c7c8), [ve'u](10_03_시공간_범위.html#ab36b2), [vi](10_01_공간.html#3c0352), [vo](18_00_숫자.html#8af175), [vo'a](07_08_vo'a.html#70e034), [vo'e](07_08_vo'a.html#70e034), [vo'i](07_08_vo'a.html#70e034), [vo'o](07_08_vo'a.html#70e034), [vo'u](07_08_vo'a.html#70e034), [vu](10_01_공간.html#5981f0), [vy](03_00_문자.html#9b4bce)
+- x[[anchor, id=indexx]][[/anchor]]: [xa](18_00_숫자.html#8af175), [xe](09_02_se.html#6611f6), [xu](13_01_xu.html#5d4c17), [xy](03_00_문자.html#9b4bce)
+- y[[anchor, id=indexy]][[/anchor]]: [y'y](03_00_문자.html#9b4bce), [ybu](03_00_문자.html#9b4bce)
+- z[[anchor, id=indexz]][[/anchor]]: [za](10_02_시간.html#176587), [za'i](11_01_사건_추상화.html#1986db), [ze](18_00_숫자.html#8af175), [ze'a](10_03_시공간_범위.html#d42e98), [ze'i](10_03_시공간_범위.html#c6aa31), [ze'u](10_03_시공간_범위.html#29548a), [zi](10_02_시간.html#176587), [zi'e](08_02_zi'e.html#23d79a), [zo'e](07_07_zo'e.html#f90f36), [zu](10_02_시간.html#176587), [zu'a](10_01_공간.html#06c2a4), [zu'i](07_07_zo'e.html#7c6f2a), [zu'o](11_01_사건_추상화.html#9fc619), [zy](03_00_문자.html#9b4bce)

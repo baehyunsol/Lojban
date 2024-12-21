@@ -1,5 +1,7 @@
 # ti
 
+[[anchor, id=5f9b03]][[/anchor]]
+
 한국어에 `이거`, `그거`, `저거`가 있고 영어에 `this`, `that`이 있다면 로지반에는 `ti`, `ta`, `tu`가 있다.
 
 화자가 무언가를 가리키면서 얘기를 할 때 가리키는 대상을 `ti`계열 cmavo를 이용해서 지칭할 수 있다.
@@ -20,5 +22,5 @@
 [[/left]]
 
 [[right]]
-[7.3.bridi_cmavo](07_03_bridi_cmavo.html) >>
+[7.3.bridi cmavo](07_03_bridi_cmavo.html) >>
 [[/right]]

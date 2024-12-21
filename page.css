@@ -83,7 +83,7 @@ CSS variables (`var(--black)`) are affected by scripts. (Everywhere else.)
 }
 
 :root {
-  --horiz-padding: 4px;
+  --horiz-padding: 0px;
   --font-size-landscape: 19px;
   --font-size-portrait: 14px;
 }
@@ -95,9 +95,9 @@ CSS variables (`var(--black)`) are affected by scripts. (Everywhere else.)
   article {
     margin-top: 3.999rem;
     margin-bottom: 0px;
-    margin-left: 3%;
-    margin-right: 3%;
-    max-width: 94%;
+    margin-left: 9%;
+    margin-right: 9%;
+    max-width: 82%;
   }
 }
 @media screen and (orientation: portrait) {
@@ -107,9 +107,9 @@ CSS variables (`var(--black)`) are affected by scripts. (Everywhere else.)
   article {
     margin-top: 3.999rem;
     margin-bottom: 0px;
-    margin-left: 3%;
-    margin-right: 3%;
-    max-width: 94%;
+    margin-left: 5%;
+    margin-right: 5%;
+    max-width: 90%;
   }
 }
 @media print {

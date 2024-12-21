@@ -8,13 +8,19 @@
 
 ### mi
 
+[[anchor, id=9347d0]][[/anchor]]
+
 1인칭 sumti
 
 ### do
 
+[[anchor, id=e3d59a]][[/anchor]]
+
 2인칭 sumti
 
 ### mi'o
+
+[[anchor, id=2eea66]][[/anchor]]
 
 1인칭 + 2인칭 sumti
 
@@ -22,17 +28,23 @@
 
 ### mi'a
 
+[[anchor, id=c511c3]][[/anchor]]
+
 1인칭 + 3인칭 sumti
 
 한국어의 `우리`와 비슷하지만 화자 + 제 3자들만 포함하고 청자는 포함하지 않는다.
 
 ### ma'a
 
+[[anchor, id=a253f6]][[/anchor]]
+
 1, 2, 3인칭 sumti
 
 화자 + 청자 + 제 3자를 모두 포함한다.
 
 ### do'o
+
+[[anchor, id=7bf578]][[/anchor]]
 
 2인칭 + 3인칭 sumti
 

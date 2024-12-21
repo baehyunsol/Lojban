@@ -4,18 +4,22 @@
 
 ## 숫자 0
 
+[[anchor, id=beb1ab]][[/anchor]]
+
 부정문을 만드는 간단한 방법 중 하나는 숫자 0을 붙이는 것이다. 숫자 표현은 [18 단원](18_00_숫자.html)에서 다룰 예정이니 18단원을 보고난 후에 이 부분을 읽어도 좋다.
 
-> mi [catlu] no [prenu]
+> [mi](07_00_sumti_cmavo.html#9347d0) [[tooltip=2bdb5720]][catlu](gismu.html#catlu)[[/tooltip]] [no](18_00_숫자.html#8af175) [[tooltip=80245320]][prenu](gismu.html#prenu)[[/tooltip]][[anchor, id=5b489b]][[/anchor]]
 >> 나는 0명의 사람을 본다.
 
 0명의 사람을 본다는 얘기는 곧 사람을 보지 않는다는 뜻이다! 위의 예시에서 `no`라는 단어가 숫자 0이라는 뜻을 이용해 부정의 의미를 더해줬다.
 
 ## na'ebo
 
+[[anchor, id=6a6a8a]][[/anchor]]
+
 `na'ebo`는 sumti 앞에 붙어서 `~가 아닌 것`이란 의미를 더해준다. 아래의 예시를 보자.
 
-> na'ebo lo ca nolraitru be le fasygu'e cu krecau
+> [na'ebo](15_02_sumti_부정.html#6a6a8a) [lo](06_00_le.html#aa90b0) [ca](10_02_시간.html#176587) nolraitru [be](05_05_be_bei.html#1fe31c) [le](06_00_le.html#fcb63c) fasygu'e [cu](09_00_cu.html#9a24bc) krecau[[anchor, id=c04be1]][[/anchor]]
 
 문장이 조금 복잡하지만 자세히 뜯어보면, `na'ebo`가 `lo ca nolraitru be le fasygu'e`를 수식하고 있다. `lo ca nolraitru be le fasygu'e`는 `프랑스의 왕`이라는 뜻이고, `krecau`는 대머리라는 뜻이다. 만약 저 문장에 `na'ebo`가 없었다면 저 문장은 `프랑스의 왕은 대머리이다`라는 의미가 된다. 저기서 `na'ebo`가 붙음으로써 `프랑스의 왕이 아닌 것`이라는 표현을 만든다. 즉, 저 문장은 `프랑스의 왕비는 대머리이다`일 수도, `영국의 왕은 대머리이다`일 수도 있다. 프랑스의 왕이 아닌 무언가가 대머리라는 의미이기만 하면 된다.
 
@@ -30,12 +34,13 @@
 [[/center]]
 
 [[left]]
-<< [15.1.selbri_부정](15_01_selbri_부정.html)
+<< [15.1.selbri 부정](15_01_selbri_부정.html)
 [[/left]]
 
 [[right]]
-[15.3.cmavo_부정](15_03_cmavo_부정.html) >>
+[15.3.cmavo 부정](15_03_cmavo_부정.html) >>
 [[/right]]
 
-[catlu]: gismu.html#catlu
-[prenu]: gismu.html#prenu
+
+[^2bdb5720]: [[highlight=red]]x1[[/highlight]]이 [[highlight=green]]x2[[/highlight]]를 응시하다
+[^80245320]: [[highlight=red]]x1[[/highlight]]은 사람이다
